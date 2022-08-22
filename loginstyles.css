@@ -1,163 +1,175 @@
+/* github@AyushAgnihotri2025 */
+
 body {
-  background-color: #f1f1ef;
+    background-color: #f1f1ef;
 }
 
+/*complete login page*/
 #container {
-  display: flex;
+    display: flex;
 }
 
+/* Look for pc's and large screens */
 @media (min-width: 780px) {
 
-  input[type=text],
-  input[type=password] {
-      width: 26vw;
-      padding: 15px;
-      margin: 5px 0 22px 0;
-      display: block;
-      border: none;
-      background: #ddd;
-  }
+    /*input box for data*/
+    input[type=text],
+    input[type=password] {
+        width: 26vw;
+        padding: 15px;
+        margin: 5px 0 22px 0;
+        display: block;
+        border: none;
+        background: #ddd;
+    }
 
-  input[type=text]:focus,
-  input[type=password]:focus {
-      background-color: rgb(188, 186, 186);
-      outline: none;
-  }
+    /*onclick input boxes*/
+    input[type=text]:focus,
+    input[type=password]:focus {
+        background-color: rgb(188, 186, 186);
+        outline: none;
+    }
 
+    /*onclick login button*/
+    #Loginbutton3:hover {
+        opacity: 1;
+        /*hovering effect using webkit box shadow*/
+        -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+        -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+        box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+        -webkit-transition: all .4s ease;
+        -moz-transition: all .4s ease;
+        -o-transition: all .4s ease;
+        transition: all .4s ease;
+    }
 
+    /*login button position and styling*/
+    #Loginbutton3 {
+        background-color: #34421E;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        opacity: 0.9;
+        border-radius: 10%;
+    }
 
-  #Loginbutton3:hover {
-      opacity: 1;
-      /*hovering effect using webkit box shadow*/
-      -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-      -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-      box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-      -webkit-transition: all .4s ease;
-      -moz-transition: all .4s ease;
-      -o-transition: all .4s ease;
-      transition: all .4s ease;
-  }
+    /*login block container*/
+    #container3 {
+        padding: 20px;
+    }
 
+    /*login page image*/
+    #image3 {
+        position: absolute;
+        top: -10px;
+        right: 120px;
+    }
 
-  #Loginbutton3 {
-      background-color: #34421E;
-      color: white;
-      padding: 14px 20px;
-      margin: 8px 0;
-      border: none;
-      cursor: pointer;
-      opacity: 0.9;
-      border-radius: 10%;
-  }
+    #contain3 {
+        position: absolute;
+        top: 135px;
+        left: 150px;
 
-  #container3 {
-      padding: 20px;
-  }
+    }
 
-  #image3 {
-      position: absolute;
-      top: -10px;
-      right: 120px;
-  }
-
-  #contain3 {
-      position: absolute;
-      top: 135px;
-      left: 150px;
-
-  }
-
-  img {
-      width: 600px;
-      height: 700px;
-  }
+    img {
+        width: 600px;
+        height: 700px;
+    }
 }
 
+/* Look for mobile phone screens */
+
 @media (max-width: 780px) {
-  body {
-      margin: 0;
-      line-height: 1.5;
-      display: flex;
-      padding: 0 10px;
-      min-height: 100vh;
-      align-items: center;
-      justify-content: center;
-  }
+    body {
+        margin: 0;
+        line-height: 1.5;
+        display: flex;
+        padding: 0 10px;
+        min-height: 100vh;
+        align-items: center;
+        justify-content: center;
+    }
 
-  #container {
-      flex-direction: column;
-  }
+    /*complete block of login page*/
+    #container {
+        flex-direction: column;
+    }
 
-  input[type=text],
-  input[type=password] {
-      padding: 10px 50px 10px 50px;
-      margin: auto;
-      margin-top: 10px;
-      margin-bottom: 10px;
-      display: block;
-      border: none;
-      background: #ddd;
-  }
+    /*input boxes of login form*/
+    input[type=text],
+    input[type=password] {
+        padding: 10px 50px 10px 50px;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: block;
+        border: none;
+        background: #ddd;
+    }
 
-  input[type=text]:focus,
-  input[type=password]:focus {
-      background-color: rgb(188, 186, 186);
-      outline: none;
-  }
+    /*onclick input boxes*/
+    input[type=text]:focus,
+    input[type=password]:focus {
+        background-color: rgb(188, 186, 186);
+        outline: none;
+    }
 
+    /*onclick login button shadow*/
+    #Loginbutton3:hover {
+        opacity: 1;
+        /*hovering effect using webkit box shadow*/
+        -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+        -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+        box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+        -webkit-transition: all .4s ease;
+        -moz-transition: all .4s ease;
+        -o-transition: all .4s ease;
+        transition: all .4s ease;
+    }
 
+    /*log in button position and styling*/
+    #Loginbutton3 {
+        background-color: #34421E;
+        color: white;
+        padding: 14px 20px;
+        margin-top: 10px;
+        border: none;
+        cursor: pointer;
+        opacity: 0.9;
+        border-radius: 10%;
+    }
 
-  #Loginbutton3:hover {
-      opacity: 1;
-      /*hovering effect using webkit box shadow*/
-      -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-      -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-      box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-      -webkit-transition: all .4s ease;
-      -moz-transition: all .4s ease;
-      -o-transition: all .4s ease;
-      transition: all .4s ease;
-  }
+    /*login block container*/
+    #container3 {
+        padding: 20px;
+    }
 
+    #heading3 {
+        text-align: center;
+    }
 
-  #Loginbutton3 {
-      background-color: #34421E;
-      color: white;
-      padding: 14px 20px;
-      margin-top: 10px;
-      border: none;
-      cursor: pointer;
-      opacity: 0.9;
-      border-radius: 10%;
-  }
+    #image3 {
+        position: relative;
+    }
 
-  #container3 {
-      padding: 20px;
-  }
+    #contain3 {
+        position: relative;
+    }
 
-  #heading3 {
-      text-align: center;
-  }
+    img {
+        height: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
-  #image3 {
-      position: relative;
-  }
-
-  #contain3 {
-      position: relative;
-  }
-
-  img {
-      height: 200px;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-  }
-
-  .center {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      text-align: center;
-  }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
 }

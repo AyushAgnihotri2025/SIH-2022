@@ -2,10 +2,12 @@ body{
   background-color: #f1f1ef;
 }
 
+/*heading for About us*/
 #heading4{
   font-size: 70px;
 }
 
+/*to position want to know us text*/
 #box4-1{
   width: 350px;
   /*border: 5px solid green;*/
@@ -16,6 +18,7 @@ body{
   height: 300px;
 }
 
+/*to position vision and mission text*/
 #box4-2{
   width: 350px;
   /*border: 5px solid green;*/
@@ -26,6 +29,7 @@ body{
   height: 300px;
 }
 
+/*to position query based platfrom text*/
 #box4-3{
   width: 350px;
   /*border: 5px solid green;*/
@@ -36,23 +40,27 @@ body{
   height: 300px;
 }
 
+/*styling for the text*/
 #text4{
   font-weight: lighter;
   font-size: 20px;
 }
 
+/*to position want to know us image*/
 #image4_1{
   position: absolute;
   top: 150px;
   right: 120px;
 }
 
+/*to position vision and mission image*/
 #image4_2{
   position: absolute;
   top: 650px;
   left: 140px;
 }
 
+/*to position query based platfrom image*/
 #image4_3{
   position: absolute;
   top: 1050px;
@@ -66,6 +74,7 @@ body{
 
 }
 
+/*to position logo box of the page*/
 #container44{
   position: absolute;
   height: 25px;
@@ -79,10 +88,12 @@ body{
   align-items: center;
 }
 
+/*to position logo within logo box*/
 #logo4{
   margin-top: 17px;
 }
 
+/*login button position and style*/
 #Login-button4 {
 
   background-color: #34421E;
@@ -96,12 +107,13 @@ body{
   margin-left: 15px;
 }
 
-
+/*onclick login shadow*/
 #Login-button4:hover {
   background-color: #34421E;
   cursor: pointer;
 }
 
+/*signup button position and style*/
 #Sign-up-button4 {
   background-color: #C19434;
   color: #ffffff;
@@ -114,11 +126,13 @@ body{
   margin-left: 15px;
 }
 
+/*onclick signup shadow*/
 #Sign-up-button4:hover {
   background-color: #C19434;
   cursor: pointer;
 }
 
+/*position of the box containing different links*/
 #navigation4 {
   position: absolute;
   height: 25px;
@@ -132,6 +146,7 @@ body{
   align-items: center;
 }
 
+/*button position within navigation at the top right*/
 #navigation4-2>a {
   margin-left: 10px;
   text-decoration: none;
@@ -139,6 +154,7 @@ body{
   color: #34421E;
 }
 
+/*link position within navigation at the top right*/
 #navigation4-1>a {
   margin-left: 10px;
   text-decoration: none;
@@ -146,6 +162,7 @@ body{
   color:red;
 }
 
+/*footer class*/
 .footer1 {
   display: flex;
   flex-direction: row;
@@ -156,17 +173,20 @@ body{
   color: #f1f1ef;
 }
 
+/*links position in footer*/
 .footer1 div{
   text-align: center;
   flex-grow: 0.2;
   margin-left: 100px;
 }
 
+/*address position in footer*/
 .footer1 div h3{
   font-weight: 300px;
   margin-bottom: 30px;
 }
 
+/*contact position in footer*/
 .col_1 a{
   text-decoration: none;
   color: #f1f1ef;
@@ -194,6 +214,8 @@ body{
 
 }
 */
+
+/*copyright at the bottom of footer*/
 .copyright1{
 
   padding: 20px 35%;

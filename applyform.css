@@ -1,26 +1,40 @@
-#container9 {  
-    padding: 50px;
-    margin-left: 280px;  
-}  
-  
-input[type=text], input[type=email], textarea {  
-  width: 800px;  
-  padding: 15px;  
-  margin: 5px 0 22px 0;  
-  display: block;  
-  border: none;  
-  background: #ddd;  
-}  
-input[type=text]:focus, input[type=email]:focus {  
-  background-color: rgb(188, 186, 186);
-  outline: none;
-} 
+/* github@AyushAgnihotri2025 */
 
-body{
-    background-color: #f1f1ef;  
+body {
+  background-color: #f1f1ef;
 }
 
-#Apply-now9:hover {
+/* Look for pc's and large screens */
+
+@media (min-width: 780px) {
+
+  /*application form styling*/
+  #container9 {
+    padding: 50px;
+    margin-left: 280px;
+  }
+
+  /*styling and position for input boxes*/
+  input[type=text],
+  input[type=email],
+  textarea {
+    width: 800px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: block;
+    border: none;
+    background: #ddd;
+  }
+
+  /*onclick box styling*/
+  input[type=text]:focus,
+  input[type=email]:focus {
+    background-color: rgb(188, 186, 186);
+    outline: none;
+  }
+
+  /*onclick apply button styling*/
+  #Apply-now9:hover {
     opacity: 1;
     -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
     -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
@@ -30,9 +44,9 @@ body{
     -o-transition: all .4s ease;
     transition: all .4s ease;
   }
-  
-  
-#Apply-now9 {
+
+  /*styling and position for apply button*/
+  #Apply-now9 {
     background-color: #34421e;
     color: white;
     padding: 14px 20px;
@@ -43,3 +57,93 @@ body{
     opacity: 0.9;
     width: 10vw;
   }
+
+  #application9 {
+    font-size: 60px;
+  }
+
+  hr {
+    height: 4px;
+  }
+}
+
+/* Look for mobile phone screens */
+
+@media (max-width: 780px) {
+
+  #container {
+    text-align: center;
+  }
+
+  /*application form styling*/
+  #container9 {
+    padding: 20px;
+  }
+
+  /*styling and position for input boxes*/
+  input[type=text],
+  input[type=email],
+  textarea {
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: block;
+    border: none;
+    background: #ddd;
+  }
+
+  /*onclick box styling*/
+  input[type=text]:focus,
+  input[type=email]:focus {
+    background-color: rgb(188, 186, 186);
+    outline: none;
+  }
+
+  /*onclick apply button styling*/
+  #Apply-now9:hover {
+    opacity: 1;
+    -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+  }
+
+  /*styling and position for apply button*/
+  #Apply-now9 {
+    background-color: #34421e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 10%;
+  }
+
+  hr {
+    height: 2px;
+  }
+
+  textarea {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 244px;
+    height: 100px;
+  }
+
+  input[type=text],
+  input[type=email] {
+    padding: 10px 25px 10px 25px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    border: none;
+    background: #ddd;
+    width: 234px;
+    text-align: center;
+  }
+}

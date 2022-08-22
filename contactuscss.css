@@ -1,64 +1,195 @@
-body{
+/* github@AyushAgnihotri2025 */
+
+body {
   background-color: #f1f1ef;
 }
 
-input[type=text],
-input[type=email] {
-  width: 26vw;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: block;
-  border: none;
-  background: #ddd;
+/*complete login page*/
+#container {
+  display: flex;
 }
 
-input[type=text]:focus,
-input[type=email]:focus {
-  background-color: rgb(188, 186, 186);
-  outline: none;
+/* Look for pc's and large screens */
+
+@media (min-width: 780px) {
+
+  /*position and styling of input boxes*/
+  input[type=text],
+  input[type=email] {
+    width: 26vw;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: block;
+    border: none;
+    background: #ddd;
+  }
+
+  /*onclick input boxes styling*/
+  input[type=text]:focus,
+  input[type=email]:focus {
+    background-color: rgb(188, 186, 186);
+    outline: none;
+  }
+
+  /*onclick send msg button styling*/
+  #Sendmsg5:hover {
+    opacity: 1;
+    -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+  }
+
+  /*send msg button position and styling*/
+  #Sendmsg5 {
+    background-color: #34421e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    margin-left: 8vw;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    width: 10vw;
+  }
+
+  /*contact us block position*/
+  #container5 {
+    padding: 16px;
+  }
+
+  /*contact us heading position*/
+  #heading5 {
+    margin-left: 10vw;
+  }
+
+  #contain5 {
+    position: absolute;
+    top: 10px;
+    left: 150px;
+
+  }
+
+  /*contact us image position*/
+  #image5 {
+    position: absolute;
+    top: 17px;
+    right: 170px;
+  }
+
+  /*contact us message box size position*/
+  #message {
+    width: 377px;
+    height: 145px;
+    margin-top: 5px;
+  }
+
+  /*contact us image size*/
+  img {
+    width: 530px;
+    height: 630px;
+  }
 }
 
-#Sendmsg5:hover {
-  opacity: 1;
-  -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-  -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-  box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
-  -webkit-transition: all .4s ease;
-  -moz-transition: all .4s ease;
-  -o-transition: all .4s ease;
-  transition: all .4s ease;
-}
+/* Look for mobile phone screens */
 
+@media (max-width: 780px) {
 
-#Sendmsg5 {
-  background-color: #34421e;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  margin-left: 8vw;
-  border: none;
-  cursor: pointer;
-  opacity: 0.9;
-  width: 10vw;
-}
+  body {
+    margin: 0;
+    line-height: 1.5;
+    display: flex;
+    padding: 0 10px;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+  }
 
-#container5 {
-  padding: 16px;
-}
+  /*complete block of login page*/
+  #container {
+    flex-direction: column;
+    text-align: center;
+  }
 
-#heading5 {
-  margin-left: 10vw;
-}
+  /*position and styling of input boxes*/
+  input[type=text],
+  input[type=email] {
+    padding: 10px 50px 10px 50px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    border: none;
+    background: #ddd;
+    text-align: center;
+  }
 
-#contain5 {
-  position: absolute;
-  top: 10px;
-  left: 150px;
+  /*onclick input boxes styling*/
+  input[type=text]:focus,
+  input[type=email]:focus {
+    background-color: rgb(188, 186, 186);
+    outline: none;
+  }
 
-}
+  /*onclick send msg button styling*/
+  #Sendmsg5:hover {
+    opacity: 1;
+    -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+  }
 
-#image5 {
-  position: absolute;
-  top: 17px;
-  right: 170px;
+  /*send msg button position and styling*/
+  #Sendmsg5 {
+    background-color: #34421e;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 10%;
+  }
+
+  /*contact us block position*/
+  #container5 {
+    padding: 20px;
+  }
+
+  /*contact us heading position*/
+  #heading5 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 2px;
+  }
+
+  #contain5 {
+    position: relative;
+
+  }
+
+  /*contact us image position*/
+  #image5 {
+    position: relative;
+  }
+
+  img {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #message {
+    width: 263px;
+    height: 100px;
+    margin-top: 5px;
+  }
 }

@@ -1,9 +1,9 @@
-body{
+body {
     background-color: #f1f1ef;
 }
 
-/*complete block of the page*/
-#card6{
+/*block position and styling*/
+#card11 {
     position: relative;
     width: 320px;
     display: block;
@@ -12,8 +12,8 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-/*success block of the page*/
-#upper-side6 {
+/*success block position and styling*/
+#upper-side11 {
     padding: 2em;
     background-color: #8BC34A;
     display: block;
@@ -22,8 +22,8 @@ body{
     border-top-left-radius: 8px;
 }
 
-/*success text*/
-#status6 {
+/*success(text) position and styling*/
+#status11 {
     font-weight: lighter;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -32,8 +32,8 @@ body{
     margin-bottom: 0;
 }
 
-/*message block*/
-#lower-side6 {
+/*message block position and styling*/
+#lower-side11{
     padding: 2em 2em 5em 2em;
     background: whitesmoke;
     display: block;
@@ -41,15 +41,15 @@ body{
     border-bottom-left-radius: 8px;
 }
 
-/*text message*/
-#message6 {
+/*message in message block position and styling*/
+#message11{
     margin-top: -.5em;
     color: #757575;
     letter-spacing: 1px;
 }
 
-/*home button*/
-#contBtn6 {
+/*home button position and styling*/
+#contBtn11{
     position: relative;
     top: 1.5em;
     text-decoration: none;
@@ -67,8 +67,8 @@ body{
     transition: all .4s ease;
 }
 
-/*onclick home button*/
-#contBtn6:hover {
+/*onclick home button styling*/
+#contBtn11:hover {
     -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
     -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
     box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);

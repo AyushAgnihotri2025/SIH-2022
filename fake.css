@@ -1,6 +1,8 @@
 body{
   background-color: #f1f1ef;
 }
+
+/*logo navigation bar position and styling*/
 #container88{
     position: absolute;
     height: 25px;
@@ -14,12 +16,13 @@ body{
     align-items: center;
   }
   
+/*logo position inside box*/
   #logo8{
     margin-top: 17px;
   }
-  
+
+/*login button position and styling*/  
   #Login-button8 {
-  
     background-color: #34421E;
     color: #ffffff;
     font-size: 13px;
@@ -31,12 +34,13 @@ body{
     margin-left: 15px;
   }
   
-  
+/*onclick login shadow*/ 
   #Login-button8:hover {
     background-color: #34421E;
     cursor: pointer;
   }
-  
+ 
+/*login button position and styling*/  
   #Sign-up-button8{
     background-color: #C19434;
     color: #ffffff;
@@ -49,11 +53,13 @@ body{
     margin-left: 15px;
   }
   
+/*onclick login shadow*/ 
   #Sign-up-button8:hover {
     background-color: #C19434;
     cursor: pointer;
   }
-  
+
+/*top box containing link and buttons position and styling*/  
   #navigation8{
     position: absolute;
     height: 25px;
@@ -73,7 +79,8 @@ body{
     font-size: 15px;
     color: #34421E;
   }
-  
+ 
+  /*fake university link*/
   #navigation8-1>a {
     margin-left: 10px;
     text-decoration: none;

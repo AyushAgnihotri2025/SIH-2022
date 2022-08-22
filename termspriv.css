@@ -1,54 +1,64 @@
-body{
-    background-color: #f1f1ef;
+/* github@AyushAgnihotri2025 */
+
+body {
+  background-color: #f1f1ef;
 }
 
-#heading7{
-    font-size: 45px;
+/*terms and conditions heading*/
+#heading7 {
+  font-size: 45px;
 }
 
-#container7{
+/* Look for pc's and large screens */
+@media (min-width: 780px) {
+
+  /*container for complete terms and condition block*/
+  #container7 {
     height: 300px;
     width: 700px;
     padding: 16px;
     margin-left: 400px;
-}
+  }
 
-#container7_1{
+  /*container for points*/
+  #container7_1 {
     padding: 20px;
     margin-right: 50px;
-}
+  }
 
- /*#image7 {
+  /*#image7 {
     margin-top: 500px;
  }*/
 
- .footer1 {
+  /*footer block*/
+  .footer1 {
     display: flex;
     flex-direction: row;
     margin-top: 500px;
     width: 1059px;
     padding: 10px 15%;
-    background:#6e7e54;
+    background: #6e7e54;
     color: #f1f1ef;
   }
-  
-  .footer1 div{
+
+  .footer1 div {
     text-align: center;
     flex-grow: 0.2;
-    margin-left:100px
+    margin-left: 100px
   }
-  
-  .footer1 div h3{
+
+  .footer1 div h3 {
     font-weight: 300px;
     margin-bottom: 30px;
   }
-  
-  .col_1 a{
+
+  .col_1 a {
     text-decoration: none;
     color: #f1f1ef;
-    display:block;
+    display: block;
     margin-bottom: 10px;
   }
+
   /*
   .social{
     padding: 30px 15%;
@@ -70,12 +80,67 @@ body{
   
   }
   */
-  .copyright1{
+
+  /*copyright in footer*/
+  .copyright1 {
     text-align: center;
     padding: 20px 15%;
     color: #f1f1ef;
-    background:#e5c070;
-    width:1059px;
+    background: #e5c070;
+    width: 1059px;
 
   }
-  
+}
+
+/* Look for mobile phone screens */
+
+@media (max-width: 780px) {
+
+  #heading7 {
+    font-size: 45px;
+  }
+
+  /*container for points*/
+  #container7 {
+    padding: 16px;
+    inline-size: auto;
+    overflow: hidden;
+    overflow-wrap: break-word;
+  }
+
+  /*footer block*/
+  .footer1 {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    padding: 10px 15%;
+    background: #6e7e54;
+    color: #f1f1ef;
+  }
+
+  .footer1 div {
+    text-align: center;
+    flex-grow: 0.2;
+  }
+
+  .footer1 div h3 {
+    font-weight: 300px;
+    margin-bottom: 30px;
+  }
+
+  .col_1 a {
+    text-decoration: none;
+    color: #f1f1ef;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  /*copyright in footer*/
+  .copyright1 {
+    text-align: center;
+    padding: 20px 6%;
+    color: #f1f1ef;
+    background: #e5c070;
+
+  }
+}

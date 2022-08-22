@@ -1,43 +1,67 @@
+<!-- github@AyushAgnihotri2025 -->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="applyform.css">
-    <title>Wizard-Application form</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="applyform.css">
+  <title>Wizard-Application form</title>
 </head>
-<body> 
-        <center><h1 id="application9">Application Form</h1></center>  
-        <hr>
-        <div id="container9"> 
+
+<body>
+  <!-- Container to contain all the elements so, that there is no conflicts in the elements :) -->
+  <div id="container">
+    <center>
+      <h1 id="application9">Application Form</h1>
+    </center>
+    <hr style="width: 100%;background-color: black; opacity: 100; " />
+    <form action="/applyform" method="post">
+      <div id="container9">
+        <!--box for application form-->
         <label for="university9"><b>Name of the Institution</b></label>
+        <!--mandatory username area-->
         <input name="universityname" type="text" placeholder="Enter your Institute name" id="university9" required>
         <label for="address9"><b>Address of the Institution</b></label>
+        <!--mandatory address area-->
         <input name="address" type="text" placeholder="Enter the address of Institute" id="address9" required>
         <label for="citypin9"><b>City-PIN code</b></label>
-        <input name="citypin" type="text" placeholder="Enter the city and PIN code" id="citypin9" required>
+        <!--mandatory location area-->
+        <input name="pincode" type="text" placeholder="Enter the city and PIN code" id="citypin9" required>
         <label for="stateut9"><b>State/UT</b></label>
-        <input name="stateut" type="text" placeholder="Enter the state/union territory" id="stateut9" required>
+        <input name="state" type="text" placeholder="Enter the state/union territory" id="stateut9" required>
         <label for="longlat9"><b>Longitude and Latitude</b></label>
-        <input name="longlat" type="text" placeholder="Enter the latitude and longitude" id="longlat9" required>
+        <input name="geolocation" type="text" placeholder="Enter the latitude and longitude" id="longlat9" required>
         <label for="phone9"><b>Phone number</b></label>
-        <input name="phone" type="text" placeholder="Enter the phone number with STD code" id="phone9" required>
+        <!--mandatory contact details area-->
+        <input name="contact" type="text" placeholder="Enter the phone number with STD code" id="phone9" required>
         <label for="fax9"><b>Fax number</b></label>
-        <input name="fax" type="text" placeholder="Enter the fax number with STD code" id="fax9" required>
+        <input name="faxnumber" type="text" placeholder="Enter the fax number with STD code" id="fax9" required>
         <label for="email9"><b>Email</b></label>
         <input name="email" type="email" placeholder="Enter your Email" id="email9" required>
         <label for="website9"><b>Website</b></label>
         <input name="website" type="text" placeholder="Enter the Website" id="website9" required>
         <b>Programmes:-</b>
-        <textarea id="message9" placeholder="Enter the Programmes offered" cols="55" rows="10" required></textarea>
+        <!--mandatory offered programs-intake seats area-->
+        <textarea name="programmes" id="message9" placeholder="Enter the Programmes offered and the seats available"
+          cols="55" rows="10" required></textarea>
+        <!--optional aicte data-->
         <b>AICTE file number and status:-</b>
-        <textarea id="aicte9" placeholder="Enter the AICTE file number and date and period of last approval" cols="55" rows="4"></textarea>
+        <textarea name="aicte" id="aicte9"
+          placeholder="Enter the AICTE file number and date and period of last approval" cols="55" rows="4"></textarea>
+        <!--optional nba data-->
         <b>NBA Accreditation status:-</b>
-        <textarea id="nba9" placeholder="Enter the NBA Accreditation status" cols="55" rows="10"></textarea>
+        <textarea name="nba" id="nba9" placeholder="Enter the NBA Accreditation status" cols="55" rows="10"></textarea>
+        <!--optional naac data-->
         <b>NAAC Accreditation status:-</b>
-        <textarea id="naac9" placeholder="Enter the NAAC Accreditation status" cols="55" rows="10"></textarea>
+        <textarea name="naac" id="naac9" placeholder="Enter the NAAC Accreditation status" cols="55"
+          rows="10"></textarea>
+        <!--button for apply now-->
         <button type="submit" id="Apply-now9">Apply Now!</button>
-      <div>  
+      </div>
+    </form>
+  </div>
 </body>
+
 </html>

@@ -1,3 +1,4 @@
+<!-- github@AyushAgnihotri2025 -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,34 +11,43 @@
 </head>
 
 <body>
-    <div id="contain2">
-        <div id="container2">
-            <form action="/official_signup" method="POST">
-                <h1 id="heading2">Sign Up</h1>
-                <label for="university2"><b>University Name</b></label>
-                <input name="universityname" type="text" placeholder="Enter your University" id="university2" required>
-                <label for="username2"><b>Username</b></label>
-                <input name="username" type="text" placeholder="Enter your Username" id="username2" required>
-                <label for="email2"><b>Email</b></label>
-                <input name="email" type="email" placeholder="Enter your Email" id="email2" required>
-                <label for="password2"><b>Password</b></label>
-                <input name="password" type="password" placeholder="Enter Password" id="password2" required>
-                <label for="passwordrep2"><b>Confirm Password</b></label>
-                <input name="confirmpassword" type="password" placeholder="Confirm Password" id="passwordrep2" required>
-                <!-- <input type="button" value="REGISTER" id="Sign-up-button2"/> -->
-                <button type="submit" id="Sign-up-button2">Register</button>
+    <!-- Container to contain all the elements so, that there is no conflicts in the elements :) -->
+    <div id="container">
+        <div id="image2">
+            <!--images for sign up page-->
+            <img src="images/signup_img1.svg" alt="sign up form image" />
+        </div>
+        <div id="contain2">
+            <!--container for complete signup block-->
+            <div id="container2">
+                <form action="/official_signup" method="POST">
+                    <h1 id="heading2">Sign Up</h1>
+                    <label for="university2"><b>University Name</b></label>
+                    <!--university area-->
+                    <input name="universityname" type="text" placeholder="Enter your University" id="university2"
+                        required>
+                    <label for="username2"><b>Username</b></label>
+                    <!--username area-->
+                    <input name="username" type="text" placeholder="Enter your Username" id="username2" required>
+                    <label for="email2"><b>Email</b></label>
+                    <!--email area-->
+                    <input name="email" type="email" placeholder="Enter your Email" id="email2" required>
+                    <label for="password2"><b>Password</b></label>
+                    <!--password area-->
+                    <input name="password" type="password" placeholder="Enter Password" id="password2" required>
+                    <label for="passwordrep2"><b>Confirm Password</b></label>
+                    <!--confirm password area-->
+                    <input name="confirmpassword" type="password" placeholder="Confirm Password" id="passwordrep2"
+                        required>
+                    <!-- <input type="button" value="REGISTER" id="Sign-up-button2"/> -->
+                    <button type="submit" id="Sign-up-button2">Register</button>
 
-                <h5 id="text2">By creating an account you agree to our <a href="./termspriv.html" style="color:dodgerblue">Terms &
-                        Conditions</a>.</h5>
-            </form>
+                    <h5 id="text2">By creating an account you agree to our <a href="./termspriv.html"
+                            style="color:dodgerblue">Terms &
+                            Conditions</a>.</h5>
+                </form>
+            </div>
         </div>
     </div>
-
-
-    <div id="image2">
-        <img src="images/signup_img1.svg" alt="sign up form image" width="580" height="680">
-    </div>
-
 </body>
-
 </html>

@@ -8,17 +8,20 @@ body {
   overflow-x: hidden;
 }
 
+/*logo bar position*/
 #container1_1{
   display: flex;
   flex-direction: column;
 }
 
+/*logo bar styling*/
 #container1_1 {
   background-color: #f1f1ef;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
+/*complete serach box position and styling*/
 #searchbox1 {
   position: relative;
   align-items: center;
@@ -26,6 +29,7 @@ body {
   right: 20vw;
 }
 
+/*search bar*/
 #search1 {
   position: relative;
   background-color: #34421E;
@@ -39,6 +43,7 @@ body {
   box-shadow: 0 5px 5px 3px gainsboro;
 }
 
+/*search bar within text*/
 #search1>input[type="text"] {
   height: 35%;
   margin: 8px 0;
@@ -49,6 +54,7 @@ body {
   border: 1.5px solid #f1f1ef;
 }
 
+/*login button at the top right*/
 #Login-button1 {
 
   background-color: #34421E;
@@ -62,12 +68,13 @@ body {
   margin-left: 15px;
 }
 
-
+/*onclick login button shadow*/
 #Login-button1:hover {
   background-color: #34421E;
   cursor: pointer;
 }
 
+/*signup button at the top right*/
 #Sign-up-button1 {
   background-color: #C19434;
   color: #ffffff;
@@ -80,11 +87,13 @@ body {
   margin-left: 15px;
 }
 
+/*onclick signup button shadow*/
 #Sign-up-button1:hover {
   background-color: #C19434;
   cursor: pointer;
 }
 
+/*navigation bar at the top right*/
 #navigation1 {
   position: absolute;
   background-color: #f1f1ef;
@@ -99,6 +108,7 @@ body {
   align-items: center;
 }
 
+
 #navigation1-2>a {
   margin-left: 10px;
   text-decoration: none;
@@ -106,6 +116,7 @@ body {
   color: #34421E;
 }
 
+/*fake university link*/
 #navigation1-1>a {
   margin-left: 10px;
   text-decoration: none;
@@ -113,12 +124,13 @@ body {
   color:red;
 }
 
-
+/*welcome heading position and styling*/
 #homepageheading1 {
   margin-top: 150px;
   font-size: 50px;
 }
 
+/*search button in the search bar position and styling*/
 #searchbutton1 {
   position: relative;
   margin-left: 2px;
@@ -132,6 +144,7 @@ body {
   width: 60px;
   cursor: pointer;
 }
+
 /*container for logo...big one*/
 #container11 {
   position: absolute;
@@ -147,6 +160,7 @@ body {
   align-items: center;
 }
 
+/*logo position within block*/
 #logo1{
   margin-top: 17px;
 }
@@ -198,6 +212,7 @@ body {
   right: 120px;
 }
 
+/*message for students*/
 #box1-1{
   width: 450px;
   /*border: 5px solid green;*/
@@ -214,6 +229,7 @@ body {
   font-size: 20px;
 }
 
+/*message for university*/
 #box1-2{
   width: 550px;
   /*border: 5px solid green;*/
@@ -237,6 +253,7 @@ body {
   right: 170px;
 }
 
+/*footer block position */
 .footer1 {
   display: flex;
   flex-direction: row;
@@ -285,6 +302,8 @@ body {
 
 }
 */
+
+/*copyright block in footer*/
 .copyright1{
   padding: 20px 35%;
   color: #f1f1ef;
