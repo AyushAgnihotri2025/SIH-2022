@@ -1,6 +1,8 @@
 body{
   background-color: #ffffff;
+  position: relative;
   overflow-x: hidden;
+  margin:0vw;
 }
 
 /*position and styling of input boxes*/
@@ -50,12 +52,14 @@ input[type=email]:focus {
 
 /*contact us heading position*/
 #heading5 {
-  margin-left: 10vw;
+  margin-left: 0vw;
+  text-align: center;
+  font-size: 60px;
 }
 
 #contain5 {
   position: relative;
-  top: 50px;
+  top: 1vw;
   left: 150px;
   width: fit-content;
   /*background-color: aqua;*/
@@ -63,9 +67,9 @@ input[type=email]:focus {
 
 /*contact us image position*/
 #image5 {
-  position: absolute;
-  top: 100px;
-  right: 170px;
+  position: relative;
+  margin-top: -35vw;
+  left: 60vw;
 }
 
 /*login button at the top right*/
@@ -114,7 +118,7 @@ input[type=email]:focus {
   display: flex;
   flex-direction: row;
   margin-top: 0vw;
-  margin-left: 65vw;
+  margin-left: 66vw;
   padding: 15px 0px 20px 10px;
   align-items: center;
   background-color: #293241;
@@ -151,13 +155,19 @@ input[type=email]:focus {
   padding: 31px 10px 31px 10px;
   align-items: center;
   background-color: #f8dad3;
-  width: 99.5%;
-  margin-top: -10px;
+  width: 100%;
+  /*width: 99.5%;
+  margin-top: -10px;*/
 }
 
 /*logo position within block*/
 #logo5_1, #logo5_2{
   margin-top: 0vw;
+}
+
+/*This was not before*/
+#bg5{
+  margin-top: 6vw;
 }
 
 #homebutton5{
@@ -176,42 +186,42 @@ input[type=email]:focus {
 #homebutton5:hover {
   cursor: pointer;
 }
-/*fake un
 
-/*footer block position */
+
 .footer5 {
+  position: relative;
   display: flex;
   flex-direction: row;
-  width: 1059px;
-  align-items: center;
-  padding: 0 15%;
+  width: 100%;
+  padding: 0 6%;
   background:#f8dad3;
   color: black;
-  margin-top: 0px;
+
 }
+
 
 .footer5 div{
   text-align: center;
   flex-grow: 0.2;
-  right:100vw;
-  font-weight: 300;
-  margin-bottom: 0vw;
-  margin-left: 100px;
+  font-weight: 300vw;
 }
 
 
-.col5_1 a, .col5_2 p, .col5_3 p {
+.col5_1 a, .col5_2 p, .col5_3 p, .col5_4 p{
   text-decoration: none;
   display:block;
-  margin-bottom: 10px;
+  margin-bottom: 0.8vw; 
   color: black;
   font-size: small;
 }
 
+/*copyright block in footer*/
 .copyright5{
-  padding: 0.7vw 15%;
+  align-self: center;
+  padding: 0.7vw 1%;
   text-align:center;
   color: #ffffff;
   background:#293241;
-  width:1059px;
+  width:100%;
 }
+

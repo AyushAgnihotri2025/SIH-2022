@@ -1,1 +1,2287 @@
-{"state":[{"university_name":"Acharaya N.G.Ranga Agricultural University","address":"Lam, Guntur ","state":"Andhra Pradesh"},{"university_name":"Acharya Nagarjuna University","address":"Acharya Nagarjuna University, Nagarjuna Nagar-522510, Near Kaza Toll Plaza, Guntur, Andhra Pradesh\n                              Guntur","state":"Andhra Pradesh"},{"university_name":"Adikavi Nannaya University","address":"Rajaraja Narendra Nagar, NH-16, Rajahmundry, A.P.\n                              Rajahmundry","state":"Andhra Pradesh"},{"university_name":"Andhra Kesari University","address":"Pernamitta,\n                              Ongole, \n                                Prakasam District","state":"Andhra Pradesh"},{"university_name":"Andhra University","address":"Visakhapatnam\n                              Visakhapatnam,","state":"Andhra Pradesh"},{"university_name":"Cluster University","address":"B-Camp, Silver Jubilee Government College Campus,\n                              Kurnool","state":"Andhra Pradesh"},{"university_name":"Damodaram Sanjivayya National Law University","address":"NYAYAPRASTHA, Sabbavaram, Visakhapatnam, Andhra Pradesh, INDIA\n                              Pedawaltair,\n                                Visakhapatnam","state":"Andhra Pradesh"},{"university_name":"Dr Y. S. R. Architecture & Fine Arts University","address":"Near toll Gate(Land Mark)\n                              Chinnamachupalli, \n                                Rayalpanthulapale, Kadapa","state":"Andhra Pradesh"},{"university_name":"Dr. Abdul Haq Urdu University","address":"5-2, K.C.BUILDING, OPP. MONTESSORI INDUS SCHOOL, GOOTY ROAD, KURNOOL, ANDHRA PRADESH","state":"Andhra Pradesh"},{"university_name":"Dr. B.R.Ambedkar University","address":"ETCHERLA (VILLAGE), SRIKAKULAM (Dt.), ANDHRAPRADESH, INDIA.\n                              Andhra Pradesh-532410","state":"Andhra Pradesh"},{"university_name":"Dr. N.T.R. University of Health Sciences","address":"Vijayawada","state":"Andhra Pradesh"},{"university_name":"Dr. Y.S.R. Horticultural University","address":"VENKATRAMANNAGUDEM, WEST GODAVARI DISTRICT, ANDHRA PRADESH \n                              Venkataramannagudem\n                                West Godavari Distt.","state":"Andhra Pradesh"},{"university_name":"Dravidian University","address":"Srinivasavanam, Kuppam\n                              Dist : Chitoor, A.P.","state":"Andhra Pradesh"},{"university_name":"Jawaharlal Nehru Technological University","address":"Gurajada\n                              Vizianagram (JNTU-GV)\n                                Vizianagram","state":"Andhra Pradesh"},{"university_name":"Jawaharlal Nehru Technological University (Anantapur)","address":"JNTU Anantapur, Ananthapuramu, Andhra Pradesh\n                              Andhra Pradesh -515002","state":"Andhra Pradesh"},{"university_name":"Jawaharlal Nehru Technological University (Kainada)","address":"Pitapuram Road, JNTU Kakinada, Kainada, East Godavari (Dt), A.P.\n                              Andhra Pradesh-533003","state":"Andhra Pradesh"},{"university_name":"Krishna University","address":"Andhra Jateeya\n                              Kalasala, Campus, Rajupeta\n                                Machllipatanam","state":"Andhra Pradesh"},{"university_name":"Rajiv Gandhi University of Knowledge Technologies","address":"V. R. Mansions,\n                              Kunchanapalli,\n                                Guntur District,","state":"Andhra Pradesh"},{"university_name":"Rayalaseema University","address":"Kurnool\n                              Andhra Pradesh","state":"Andhra Pradesh"},{"university_name":"Sri krishnadevaraya University","address":"Sri Venkateswarpuram-515055\n                              Anantur\n                                Andhra Pradesh","state":"Andhra Pradesh"},{"university_name":"Sri Padmavati Mahila Vishwavidyalayam","address":"Sri Padmavati Mahila Visvavidyalayam , Padmavathi Nagar, Near West Railway Station, Tirupati, Chittoor (Dist), A.P \n                              Tirupati - 517 502.\n                                Andhra Pradesh, INDIA","state":"Andhra Pradesh"},{"university_name":"Sri Venkateswara Institute of Medical Sciences","address":"Alipiri Road, Tirupati, Chittoor Dist, Andhra Pradesh","state":"Andhra Pradesh"},{"university_name":"Sri Venkateswara University","address":"Tirupati\n                              A.P.","state":"Andhra Pradesh"},{"university_name":"Sri Venkateswara Vedic University","address":"alipiri-chandragiri by-pass road, tirupati\n                              Bhavan, Tirupati-517502\n                                Chittoor Dist, Andhra Pradesh","state":"Andhra Pradesh"},{"university_name":"Sri Venkateswara Veterinary University","address":"Technical Officer to Vice Chancellor\n                              Tirupati , Andhra Pradesh-517 502","state":"Andhra Pradesh"},{"university_name":"Vikrama Simhapuri University","address":"kakutur, Venkatachalam (M.D.)\n                              Nellore \n                                Andhra Pradesh","state":"Andhra Pradesh"},{"university_name":"Yogi Vemana University","address":"Yogi Vemana University, KADAPA, AP","state":"Andhra Pradesh"},{"university_name":"Baba Ghulam Shah Badshah University","address":"Baba Ghulam Shah Badshah University, Rajouri, J&amp;K - 185234\n                              Road,Chinnai Himmat, Jammu","state":"Jammu and Kashmir "},{"university_name":"Cluster University of Jammu","address":"Adjoining G.G.M. Science College,\n                              Canal Road,\n                                Jammu","state":"Jammu and Kashmir "},{"university_name":"Cluster University of Srinagar","address":"S.P. College Srinagar,\n                              Srinagar","state":"Jammu and Kashmir "},{"university_name":"Islamic University of Sciences & Technology University","address":"University Avenue,Awantipora\n                              Pulwama-192 122\n                                Kashmir","state":"Jammu and Kashmir "},{"university_name":"Jammu University","address":"Baba Saheb Ambedkar Road Jammu Tawi (J&amp;K)\n                              Jammu Tawi - 180 004.","state":"Jammu and Kashmir "},{"university_name":"Kashmir University","address":"Hazratbal, Srinagar\n                              PIN - 190 006. (J &amp; K)","state":"Jammu and Kashmir "},{"university_name":"Sher-e-Kashmir University of Agricultural Science & Technology","address":"Shalimar, srinagar J and K \n                              Srinagar-190 001. (J&amp;K)","state":"Jammu and Kashmir "},{"university_name":"Sher-e-Kashmir University of Agricultural Science & Technology, Jammu","address":"Jammu","state":"Jammu and Kashmir "},{"university_name":"Shri Mata Vaishno Devi University","address":"SMVD University, Kakryal, Katra, J&amp;K\n                              Katra,J&amp;K","state":"Jammu and Kashmir "}]}
+{
+    "state": [
+        {
+            "university_name": "Acharaya N.G.Ranga Agricultural University",
+            "address": "Lam, Guntur ",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Acharya Nagarjuna University",
+            "address": "Acharya Nagarjuna University, Nagarjuna Nagar-522510, Near Kaza Toll Plaza, Guntur, Andhra Pradesh\n                              Guntur",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Adikavi Nannaya University",
+            "address": "Rajahmahendravaram,\n                              East Godavari District",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Andhra Kesari University",
+            "address": "Pernamitta,\n                              Ongole, \n                                Prakasam District",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Andhra University",
+            "address": "Visakhapatnam\n                              Visakhapatnam,",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Cluster University",
+            "address": "B-Camp, Silver Jubilee Government College Campus,\n                              Kurnool",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Damodaram Sanjivayya National Law University",
+            "address": "NYAYAPRASTHA, Sabbavaram, Visakhapatnam, Andhra Pradesh, INDIA\n                              Pedawaltair,\n                                Visakhapatnam",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Dr Y. S. R. Architecture & Fine Arts University",
+            "address": "Near toll Gate(Land Mark)\n                              Chinnamachupalli, \n                                Rayalpanthulapale, Kadapa",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Dr. Abdul Haq Urdu University",
+            "address": "5-2, K.C.BUILDING, OPP. MONTESSORI INDUS SCHOOL, GOOTY ROAD, KURNOOL, ANDHRA PRADESH",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Dr. B.R.Ambedkar University",
+            "address": "ETCHERLA (VILLAGE), SRIKAKULAM (Dt.), ANDHRAPRADESH, INDIA.\n                              Andhra Pradesh-532410",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Dr. N.T.R. University of Health Sciences",
+            "address": "Vijayawada",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Dr. Y.S.R. Horticultural University",
+            "address": "VENKATRAMANNAGUDEM, WEST GODAVARI DISTRICT, ANDHRA PRADESH \n                              Venkataramannagudem\n                                West Godavari Distt.",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Dravidian University",
+            "address": "Srinivasavanam, Kuppam\n                              Dist : Chitoor, A.P.",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Jawaharlal Nehru Technological University",
+            "address": "Gurajada\n                              Vizianagram (JNTU-GV)\n                                Vizianagram",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Jawaharlal Nehru Technological University (Anantapur)",
+            "address": "JNTU Anantapur, Ananthapuramu, Andhra Pradesh\n                              Andhra Pradesh -515002",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Jawaharlal Nehru Technological University (Kainada)",
+            "address": "Pitapuram Road, JNTU Kakinada, Kainada, East Godavari (Dt), A.P.\n                              Andhra Pradesh-533003",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Krishna University",
+            "address": "Andhra Jateeya\n                              Kalasala, Campus, Rajupeta\n                                Machllipatanam",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Rajiv Gandhi University of Knowledge Technologies",
+            "address": "V. R. Mansions,\n                              Kunchanapalli,\n                                Guntur District,",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Rayalaseema University",
+            "address": "Kurnool\n                              Andhra Pradesh",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Sri krishnadevaraya University",
+            "address": "Sri Venkateswarpuram-515055\n                              Anantur\n                                Andhra Pradesh",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Sri Padmavati Mahila Vishwavidyalayam",
+            "address": "Sri Padmavati Mahila Visvavidyalayam , Padmavathi Nagar, Near West Railway Station, Tirupati, Chittoor (Dist), A.P \n                              Tirupati - 517 502.\n                                Andhra Pradesh, INDIA",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Sri Venkateswara Institute of Medical Sciences",
+            "address": "Alipiri Road, Tirupati, Chittoor Dist, Andhra Pradesh",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Sri Venkateswara University",
+            "address": "Tirupati\n                              A.P.",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Sri Venkateswara Vedic University",
+            "address": "alipiri-chandragiri by-pass road, tirupati\n                              Bhavan, Tirupati-517502\n                                Chittoor Dist, Andhra Pradesh",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Sri Venkateswara Veterinary University",
+            "address": "Technical Officer to Vice Chancellor\n                              Tirupati , Andhra Pradesh-517 502",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Vikrama Simhapuri University",
+            "address": "kakutur, Venkatachalam (M.D.)\n                              Nellore \n                                Andhra Pradesh",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Yogi Vemana University",
+            "address": "Yogi Vemana University, KADAPA, AP",
+            "state": "Andhra Pradesh"
+        },
+        {
+            "university_name": "Baba Ghulam Shah Badshah University",
+            "address": "Baba Ghulam Shah Badshah University, Rajouri, J&amp;K - 185234\n                              Road,Chinnai Himmat, Jammu",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Cluster University of Jammu",
+            "address": "Adjoining G.G.M. Science College,\n                              Canal Road,\n                                Jammu",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Cluster University of Srinagar",
+            "address": "S.P. College Srinagar,\n                              Srinagar",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Islamic University of Sciences & Technology University",
+            "address": "University Avenue,Awantipora\n                              Pulwama-192 122\n                                Kashmir",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Jammu University",
+            "address": "Baba Saheb Ambedkar Road Jammu Tawi (J&amp;K)\n                              Jammu Tawi - 180 004.",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Kashmir University",
+            "address": "Hazratbal, Srinagar\n                              PIN - 190 006. (J &amp; K)",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Sher-e-Kashmir University of Agricultural Science & Technology",
+            "address": "Shalimar, srinagar J and K \n                              Srinagar-190 001. (J&amp;K)",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Sher-e-Kashmir University of Agricultural Science & Technology, Jammu",
+            "address": "Jammu",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Shri Mata Vaishno Devi University",
+            "address": "SMVD University, Kakryal, Katra, J&amp;K\n                              Katra,J&amp;K",
+            "state": "Jammu and Kashmir "
+        },
+        {
+            "university_name": "Dr. Babasaheb Ambedkar Marathwada University",
+            "address": "University Campus, Near Soneri Mahal, \n                              Jaisingpura, \n                                Aurangabad",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Dr. Babasaheb AmbedkarTechnological University",
+            "address": "Dr. Babasaheb Ambedkar Technological University LonereVidyavihar, A/P Lonere, Tal. Mangaon, Dist. Raigad, Maharashtra, 402013\n                              Lonere-402103, Dt-Raigad.",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Dr. Homi Bhabha State University",
+            "address": "15, Madam Cams Road, Fort, Mumbai\n                              15 Madame Cama Road,\n                                Mumbai",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Dr. Punjabrao Deshmukh Krishi Vidyapeeth",
+            "address": "Krishi Nagar Post Office, AKOLA, Maharashtra\n                              Akola - 444 104.",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Gondwana University",
+            "address": "M.I.D.C. Road Complex\n                              Godchiroli, Maharashtra",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "International Sports University, Maharashtra",
+            "address": "Sports &amp; Youth Services\n                              Shivchhatrapati Sports Complex\n                                Mahalunge-Belawadi, Pune",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Kavayitri Bahinabai Chadhari North Maharashtra University",
+            "address": "Umavinagar\n                              P.B.No.80, Jalgaon",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya",
+            "address": "Administration Building, Mouda Road, Ramtek, Dist. Nagpur \n                              Ramtek-441106,Dist. Nagpur\n                                Maharashtra",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Konkan Krishi Vidyapeeth",
+            "address": "Dapoli, Tal: Dapoli, Dist. Ratnagiri\n                              District Ratnagiri",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Maharahtra University of Health Sciences",
+            "address": "Vani Dindori Road, Mhasrul, Nashik\n                              Nashik-422 005",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Maharashtra Animal & Fishery Sciences University",
+            "address": "Futala Lake Road, Nagpur\n                              Seminary Hills, Nagpur-440 006",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Maharashtra National Law University",
+            "address": "2nd Floor, CETTM Campus\n                              MTNL Building, Technology Street\n                                Hiranandani Gardens, Powai, Mumbai",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Maharashtra National Law University",
+            "address": "Maharashtra National Law University, Nagpur,Moraj Design and Decorator (DnD) Building, Near Oil Depot, Mihan Fly Over Khapri, , Nagpur 441108\n                              Padampura,\n                                Aurangabad",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Maharashtra National Law University,",
+            "address": "Training Institute(JOTI),\n                              Civil Lines, \n                                C P Club Road, Nagpur",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Maharashtra State Skills University",
+            "address": "1st, Floor, Elphinstone Technical High School\n                              3, Mahapalika Marg, Metro Chowk\n                                Mumbai",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Mahatma Phule Krishi Vidyapeeth",
+            "address": "Rahuri\n                              Dt.Ahmednagar - 413 722.",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Marathwada Agricultural University",
+            "address": "Parbhani - 431 402.",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Mumbai University",
+            "address": "M.G. Road, Fort, Mumbai \n                              Mumbai - 400 032.",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Punyashlok Ahilyadevi Holkar Solapur University",
+            "address": "Kegaon, Solapur-Pune National Highway, Solapur-413255, Maharashtra (India)\n                              Solapur Pune national Highway\n                                Kegaon,Solapur-413255 (Maharashtra)",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Rashtrasant Tukadoji Maharaj Nagpur University",
+            "address": "Chhatrapati Shivaji Maharaj Administrative Premises,\n                              Ravindranath Tagore Marg,\n                                Nagpur",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Sant Gadge Baba Amravati University",
+            "address": "Camp, ti,\n                              Amravati-444602\n                                (M.S.)",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Savitribai Phule Pune University",
+            "address": "Ganeshkhind Road,Pune, Maharashtra, India.\n                                Pune",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Shivaji University",
+            "address": "Vidyanagar Kolhapur\n                              Kolhapur - 416 004.",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Smt. Nathibai Damodar Thackersey Women's University",
+            "address": "1,Nathibai Thackersay Rd.\n                              Mumbai - 400 020.",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Swami Ramanand Teerth Marathwada University",
+            "address": "Vishnupuri, Nanded\n                              Nanded-431606,(M.S.)",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Yashwant Rao Chavan Maharashtra Open University",
+            "address": "Dnyangangotri Near Gangapur Dam, Nashik,Maharashtra(India)\n                                Gangapur Dam,Nasik-422222",
+            "state": "Maharashtra "
+        },
+        {
+            "university_name": "Alagappa University",
+            "address": "Vallal Alagappar Valagam, Karaikudi\n                              Karaikudi\n                                Sivaganga District",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Anna University",
+            "address": "Sardar Patel Road, Guindy, Chennai\n                              Guindy\n                                Chennai",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Annamalai University",
+            "address": "Annamalainagar",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Bharathiar University",
+            "address": "Bharathiar University, Marudhamalai Main Road, Coimbatore-641046\n                              PIN - 641 046.\n                                Tamil Nadu",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Bharathidasan University",
+            "address": "Palkalaiperur,\n                              Tiruchirappalli",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Madras University",
+            "address": "Chepauk\n                              Chennai",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Madurai Kamraj University",
+            "address": "Palkainagar,\n                              Madurai-625 021.(T.N.).",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Manonmaniam Sundarnar University",
+            "address": "Tirunelvelli - 627 008.",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Mother Teresa Women's University",
+            "address": "Registrar, Mother Teresa Women's University, Attuvampatty, Kodaikanal.\n                              T.N. - 624 101.",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Periyar University",
+            "address": "Periyar Palkalai Nagar,Salem-11\n                              Campus,  Salem- 636 011 (T.N.)",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamil Nadu Fisheries University",
+            "address": "Vettar River View Campus, Nagapattinam\n                              Nagapattinam",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamil Nadu Open University",
+            "address": "No. 577, Anna Salai,\n                              Saidapet,\n                                Chennai",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamil Nadu Physical Education and Sports University",
+            "address": "Melakottaiyur, Chennai\n                              Sampat Maaligai, college Road,\n                                Chennai-600006",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamil Nadu Teacher Education University",
+            "address": "Gangaiamman koil street, \n                              Karapakkam, \n                                Chennai,",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamil University",
+            "address": "Trichy Road, Thanjavur,\n                              PIN - 613 005. (T.N.)",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamilnadu Agricultural University",
+            "address": "Lawley Road, Coimbatore 641003, Tamilnadu",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamilnadu Dr. Ambedkar Law University",
+            "address": "Poompozhil,5.Dr.D.G.S. dinakaran\n                              Salai, Raja Annamalai Puram,\n                                Chennai-600028, (T.N.)",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamilnadu Dr. M.G.R.Medical University",
+            "address": "NO.69, ANNA SALAI, GUINDY, CHENNAI -600 032\n                              Chennai- 600 032.",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamilnadu National Law University",
+            "address": "NAVALURKUTTAPPATTU, DINDIGUL MAIN ROAD, TRICHY\n                              Tiruchirapalli",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Tamilnadu Veterinary & Animal Sciences University",
+            "address": "Tamil Nadu Veterinary and Animal Sciences University, Madhavaram Milk Colony, Chennai-51, Tamil Nadu",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "The Tamil Nadu Dr.J Jayalalithaa Music and Fine Arts University",
+            "address": "Dr. D.G.S. Dinakaran Salai\n                              Chennai",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Thiruvalluvar University",
+            "address": "Serkkadu, Vellore\n                              Vellore District\n                                Tamil Nadu",
+            "state": "Tamil Nadu "
+        },
+        {
+            "university_name": "Note: "
+        },
+        {
+            "university_name": "Assam Agricultural University",
+            "address": "Jorhat - 785 013. (ASSAM)",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Assam Rajiv Gandhi University of Co-operative Management",
+            "address": "Sivasagar\n                              Guwahati, Assam.",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Assam Science & Technology University",
+            "address": "Tetelia Road, jalukbari, Guwahati 781013, Assam",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Assam Women's University",
+            "address": "Jamuguri, Rowriah, Jorhat, Assam\n                              Assam",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Bhattadev University",
+            "address": "Pathsala, barpeta, Assam\n                              Barpeta\n                                Assam",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Birangana Sati Sadhani Rajyik Vishwavidyalaya",
+            "address": "Golghat",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Bodoland University",
+            "address": "Debargaon, P.O. Rangalikhata\n                              Kokrajhar\n                                BTC, Assam",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Cotton University",
+            "address": "COTTON UNIVERSITY, PANBAZAR, GUWAHATI\n                              Guwahati",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Dibrugarh University",
+            "address": "Rajabheta, Dibrugarh\n                              PIN - 786 004. (ASSAM)",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Gauhati University",
+            "address": "Gopinath Bordoloi Nagar,Guwahati -781014KAMRUP , Assam\n                                Guwahati-781014 (Assam).",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Krishna Kanta Handiqui State Open University",
+            "address": "Resham Nagar, Khanapara, Guwahati, Kamrup(M), Assam\n                              Guwahati-781 006\n                                Assam",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Kumar Bhaskar Varma Sanskrit & Ancient Studies University",
+            "address": "NAMATI, HATI NAMATI, NALBARI, ASSAM-781337, INDIA\n                              P.O.- Hati Namati\n                                Dist-Nalbari,Assam",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Madhabdev University",
+            "address": "Narayanpur, PO: Dikrong, Lakhimpur, Assam\n                              Narayanpur,\n                                Lakhimpur",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Majuli University of Culture,",
+            "address": "Majuli,\n                              Assam",
+            "state": "Assam "
+        },
+        {
+            "university_name": "National Law University and Judicial Academy",
+            "address": "Hajo Road, Amingaon, Kamrup (Rural), Assam\n                              Bholanath Mandir Parh, Ulubari\n                                Guwahati",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Rabindranath Tagore University",
+            "address": "Hojai",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Sri Sri Aniruddhdeva Sports University",
+            "address": "DICC BUILDING, 2ND FLOOR, Chabua\n                              NEAR DISTRICT LIBRARY, DISTT. DIBRUGARH, \n                                Dibrugarh",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Srimanta Sankaradeva University of Health Sciences",
+            "address": "Narakasur Hilltop, Bhangagarh\n                              Guwahati",
+            "state": "Assam "
+        },
+        {
+            "university_name": "Binod Bihari Mahto Koylanchal University",
+            "address": "Govt. Polytechnic Road\n                              Dhanbad",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Birsa Agricultural University",
+            "address": "Kanke\n                              Ranchi - 834 006.(JHARKHAND)",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Dr. Shyama Prasad Mukherjee University",
+            "address": "P.O. - Ranchi University Morabadi\n                              Ranchi",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Jharkhand Raksha Shakti University",
+            "address": "Old Judicial Academy\n                              (Shri Krishna Lok Prashashan Sansthan Parisar)\n                                Mayors Road, Ranchi",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Jharkhand University of Technology",
+            "address": "Science &amp; Technology Campus,\n                              Sirkha Toll, Namkum,\n                                Ranchi",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Kolhan University",
+            "address": "NH-75, WEST SINGHBHUM, JHARKHAND\n                              West Singhbhum, Jharkhand",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "National University of Study & Research in Law",
+            "address": "P.O. Bukru, Kanke Pithoria Road, Kanke - Nagari, Kanke, Ranchi\n                              BIT Mesra,\n                                Ranchi",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Nilamber-Pitamber University",
+            "address": "Madininager, Palamu-822101\n                              Jharkhand",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Ranchi University",
+            "address": "Ranchi,\n                              PIN - 834 008. (JHARKHAND)",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Sido Kanhu Murmu University",
+            "address": "Dighi Campus, Dumka - Pakur Road, Dumka\n                               Dumka,",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Vinoba Bhave University",
+            "address": "Hazaribagh,\n                              PIN - 825 301. (JHARKHAND)\n                                Post Box No.-31",
+            "state": "Jharkhand "
+        },
+        {
+            "university_name": "Dhanamanjuri University",
+            "address": "Imphal, Manipur",
+            "state": "Manipur"
+        },
+        {
+            "university_name": "Manipur Technical University",
+            "address": "Government Polytechnic Campus, Takyelpat, Imphal West, Manipur\n                              Imphal\n                                Manipur",
+            "state": "Manipur"
+        },
+        {
+            "university_name": "Manipur University of Culture",
+            "address": "Palace Compound Imphal East Manipur\n                              Imphal East,",
+            "state": "Manipur"
+        },
+        {
+            "university_name": "Maharaja Bir Bikram University",
+            "address": "Agartala\n                              Tripura",
+            "state": "Tripura "
+        },
+        {
+            "university_name": "Arybhatta Knowledge University",
+            "address": "A.N. Sinha Institute of Social\n                              Studies Campus(West) North Gondhi\n                                Maidan, Patna",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Babasaheb Bhimrao Ambedkar Bihar University",
+            "address": "Muzzaffarpur - 842 001.\n                              Bihar",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Bhupendra Narayan Mandal University",
+            "address": "Singheshwar Road, NH 106, Madhepura\n                              PIN - 852 113. (BIHAR)",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Bihar Agricultural University",
+            "address": "Sabour (BhagalPur)",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Bihar Animal Sciences University",
+            "address": "Bihar Animal Science University, Bihar Veterinary College Campus, Patna\n                              Patna",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Chanakya National Law University",
+            "address": "Mithapur, Nyaya Nagar, Patna 800 001, Bihar (INDIA)\n                              Patna-800001, Bihar",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Jai Prakash vishwavidyalaya(university)",
+            "address": "Chapra,\n                              PIN- 841 301. (BIHAR)",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Kameshwar Singh Darbhanga Sanskrit Vishwavidyalaya",
+            "address": "Kamcshwar Nagar\n                              Darbhanga\n                                846 008.(BIHAR)",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Lalit Narayan Mithila University",
+            "address": "Darbhanga\n                              PIN - 846 008. (BIHAR)",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Magadh University",
+            "address": "Bodh Gaya Bihar-824234\n                              BIHAR",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Maulana Mazharul Haque Arabic & Persian University",
+            "address": "Mithapur Farm Area\n                              800 006",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Munger University",
+            "address": "Munger\n                              Bihar",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Nalanda Open University",
+            "address": "3rd Floor, Biscomum Bhawan, West\n                              Gandhi, Maidan, Patna,\n                                Bihar-800001",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Patliputra University",
+            "address": "Kankarbagh Road,\n                              Near Rajendra Nagar Terminal,\n                                Patna",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Patna University",
+            "address": "Patna,\n                              PIN - 800 005.",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Purnea University",
+            "address": "Purnea,\n                              Bihar,",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Rajendra Agricultural University",
+            "address": "Pusa Samastipur-848125\n                              (BIHAR).",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "T.M. Bhagalpur University",
+            "address": "Bhagalpur",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Veer Kunwar Singh University",
+            "address": "Ara\n                              Bihar",
+            "state": "Bihar "
+        },
+        {
+            "university_name": "Akkamahadevi women's University (Formerly known as \"Karnataka State Women's University)",
+            "address": "Vijayapur\n                              Karnataka-586101",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Bangalore University",
+            "address": "Jnana Bharathi, \n                              Bangalore",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Bengaluru City University",
+            "address": "RUKMINI KNOWLEDGE PARK, KATTIGENAHALLI, JALA HOBLI, YELAHANKA, BANGALORE \n                               Dr. Ambedkar Veedhi\n                                Bengaluru,",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Bengaluru Dr. B. R. Ambedkar School of Economics University",
+            "address": "JNANABHARTI MAIN ROAD, NAGARABHAVI BENGALURU\n                              Nagarabhavi P.O, \n                                Bengaluru",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Bengaluru North University",
+            "address": "Devaraj Urs Extension, \n                              Tamaka Kolar, Karnataka",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Davangere University",
+            "address": "Davangere University, Shivagangotri, Davangere\n                              Davangere Karnataka-577002",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Gulbarga University",
+            "address": "GULBARGA UNIVERSITY, KALBURGI, KARNATKA\n                              PIN - 585 106, KARNATAKA",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Kannada University",
+            "address": "Vidyaranya, Hosapete Taluk, Bellary Dist., KARNATAKA\n                              Hampi (Dt. Bellary) 583276",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka State Law University",
+            "address": "Navanagar, Hubli-580025\n                              Karnataka",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka State Open University",
+            "address": "Manasangangotri\n                              Mysore-570006",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka University",
+            "address": "Karnatak University,\n                              Pavate Nagar, Dharwad,\n                                PIN - 580 003.",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka Folklore University",
+            "address": "Gotagodi, Shiggavi Taluk, Haveri District - 581 205\n                              Vijayanagar, Banglore",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka Janapada Vishwavidyalaya",
+            "address": "Gatagodi, NH-4, TalukShiggaon, \n                              Dist-Haveri,",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka Samskrit University",
+            "address": "Sri Chamarajendra Sanskrit College campus,\n                              Pampa Mahakavi Road,Chamarajpet\n                                Bangalore",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka State Rural Development and Panchayat Raj University",
+            "address": "Raitha Bhavana, General Cariappa Circle, Gadag, Karnataka- 582101\n                              Regional Office:- Grameenabhivruddhi Bhavan, Ananda Rao Circle,\n                                Bengaluru-560009",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Karnataka Veterinary, Animal & Fisheries Science University",
+            "address": "Nandinagar\n                              PB No.6,Bidar-585401(Karnataka",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "KSGH Music and Performing Arts University",
+            "address": "Jlb road, Ashoka Circle, Lakshmipura, Mysuru-04\n                              Near Ashoka Circle\n                                Ladshmipuram, Mysore",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Kuvempu University",
+            "address": "Jnanasahyadri, Shankaraghatta, Shivamogga, Karnataka\n                              PIN -577 451. KARNATAKA.",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Maharani Cluster University",
+            "address": "Palace Road Bangalore \n                              Bengaluru",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Mandya University",
+            "address": "M.C. Road,\n                              Mandya",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Mangalore University",
+            "address": "Mangalore University Mangalagangotri Karnataka State India\n                              Mangalore - 574 199.",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Mysore University",
+            "address": "Manasagangotri, Mysuru,Karnataka\n                                Mysore - 570 005.",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "National law School of India University",
+            "address": "Nagarbhavi, Bengaluru\n                              Bangalore - 560 072.",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Nrupathunga University",
+            "address": "Nrupathunga Road, Bengaluru, ",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Raichur University",
+            "address": "Jnana Tunga Campus\n                              Yegragera\n                                Raichur",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Rajiv Gandhi University of Health Science",
+            "address": "Jayanagar\n                              Bangalore - 560 041.",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Rani Channamma University",
+            "address": "Rani Channamma University, Vidyasangama Campus, Bhutaramanahatti, PB-NH 04,Belagavi-Karnataka-India\n                                P.B Highway,\n                                Belagavi",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Tumkur University",
+            "address": "Tumkur University B H Road, Tumkur, Karnataka, India\n                              B.H. Road, Tumkur",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "University of Agricultural Sciences",
+            "address": "Lingasuguru Road,\n                              Raichur",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "University of Agricultural Sciences Banglore",
+            "address": "GKVK -\n                              Campus,Bangalore",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "University of Agricultural Sciences Dharwad",
+            "address": "University of Agricultural Sciences, Dharwad (Karnataka)\n                              Dharwad",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "University of Horticultural Sciences",
+            "address": "NEAR SEMIKERI CROSS, UDYANAGIRI, NAVANAGAR, BAGALKOT\n                              Near Seemikeri Cross,\n                                Bagalkot",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Vesveswaraiah Technological University",
+            "address": "Jnana Sangama,\n                              Belgaum",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Vijayanagara Sri Krishnadevaraya University",
+            "address": "Ballari\n                              Vinayaka Nagar,\n                                Contonment,Bellary",
+            "state": "Karnataka "
+        },
+        {
+            "university_name": "Berhampur University",
+            "address": "Berhampur, Bhanja Bihar,\n                              Dt. Ganjam PIN-760 007.\n                                odisha",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Biju Patnaik University of Technology",
+            "address": "Chhend, Rourkela, Odisha\n                              Orissa",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Fakir Mohan University",
+            "address": "Vyas Vihar, \n                              Nuapadhi, \n                                Balasore",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Gangadhar Meher University",
+            "address": "Amruta Vihar, Sambalpur, Odisha",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "International Institute of Information Technology (IIIT)",
+            "address": "Gothapatana, Malipada, Bhubaneswar\n                              P.O-Malipada,\n                                Bhubaneswar",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Kalahandi University",
+            "address": "Manikya Vihar, At/Po-Bhawanipatna\n                              Dist.-Kalahandi,",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Khallikote University",
+            "address": "Berhampur\n                              Ganjam,\n                                Berhampur,",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Madhusudan Law University",
+            "address": "Station Road, \n                              Cuttack",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Maharaja Sriram Chandra Bhanja Deo University(Earlier North Orissa University)",
+            "address": "Sriram Chandra Vihar, Takatpur, Baripada, Odisha\n                              Bhuabaneswar",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "National Law University",
+            "address": "Kathajodi Campus, \n                               Sec – 13,CDA\n                                Cuttack",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Odisha State Open University",
+            "address": "G.M. University Campus,\n                              Budharaja,\n                                Sambalpur",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Odisha University of Technology and Research",
+            "address": "Techno Campus, Ghatikia\n                              P.O. Mahalaxmi Vihar\n                                Bhubaneswer",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Orissa University Of Agriculture & Technology",
+            "address": "Bhubaneshwar - 751 003.",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Rajendra University",
+            "address": "Bolangir",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Rama Devi Women's University",
+            "address": "Vidya Vihar, Bhoi Nagar, Bhubaneswar-751022\n                              odisha",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Ravenshaw University",
+            "address": "Cuttack",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Sambalpur University",
+            "address": "Jyoti Vihar, Burla,\n                              Sambalpur - 768 019.",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Shri Jagannath Sanskrit Vishwavidyalaya",
+            "address": "Shri Jagannath Sanskrit Vishvavidyalaya",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Utkal University",
+            "address": "Vani Vihar,\n                              Bhubaneshwar - 751 004.",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Utkal University of Culture",
+            "address": "SANSKRUTI VIHAR, MADANPUR, BHUBANESWAR\n                              Unit 2,Bhubaneswar 751009",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Veer Surendra Sai Institute of Medical Science and Research",
+            "address": "Ayuvihar, \n                              Burla\n                                Sambalpur",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "Veer Surendra Sai University of Technology",
+            "address": "Siddhi Vihar, P.O. Engineering College, Burla, Dist. Sambalpur\n                              Sambalpur, Orissa",
+            "state": "Orissa "
+        },
+        {
+            "university_name": "University of Lucknow",
+            "address": "University of Lucknow, Lucknow\n                              PIN - 226 007.",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Allahabad State University",
+            "address": "CPI Parisar,\n                              Civil Lines,\n                                Allahabad",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Archarya Narendra Deva University of Agriculture & Technology",
+            "address": "Kumarganj,\n                              Ayodhya",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Banda University of Agriculture & Technology",
+            "address": "Banda\n                              Uttar Pradesh",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Bundelkhand University",
+            "address": "Kanpur Road, Jhansi,\n                              PIN - 284 128  (UP)",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Chandra Shekhar Azad University of Agriculture & Technology",
+            "address": "Kanpur ",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Chaudhary Charan Singh University",
+            "address": "Meerut ",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Chhatrapati Shahuji Maharaj Kanpur University",
+            "address": "Kalyanpur, kanpur",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Deen Dayal Upadhyay Gorakhpur University",
+            "address": "Civil Lines, Gorakhpur\n                              PIN - 273 009. (U.P.)",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Dr. A.P.J. Abdul Kalam Technical University",
+            "address": "Jankipuram Extension\n                              Jankipuram Extension Yojna,\n                                Lucknow",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Dr. B.R. Ambedkar University",
+            "address": "Paliwal Park,\n                              Agra",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Dr. Ram Manohar Lohia Awadh University",
+            "address": "Allahabad Road Faizabad, Ayodhya",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Dr. Ram Manohar Lohia Institute of Medical Sciences",
+            "address": "Vibhuti Khand,\n                              Gomti Nagar,\n                                Lucknow",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Dr. Ram Manohar Lohiya National Law University",
+            "address": "L.D.A.,Kanpur Road scheme,Lucknow\n                              Lucknow, U.P.",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Dr. Shakuntala Misra National Rehabilitation University",
+            "address": "5th Floor,\n                              Administrative Building\n                                Mohaan Road, Lucknow",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Gautam Buddha University",
+            "address": "Greater Noida, Dist: Gautam Budh -\n                              Nagar,",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Harcourt Butler Technical University",
+            "address": "Kanpur",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Jananayak Chandrashekhar University",
+            "address": "Ballia",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Khwaja Moinuddin Chishti Language University",
+            "address": "Sitapur - Hardoi Bypass Road,\n                              Near I.I.M.\n                                Lucknow",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "King Georges Medical University",
+            "address": "King George Medical University, Shahmeena Road Chowk, Lucknow,",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Maa Shakumbhari University",
+            "address": "Saharanpur, Punwarka\n                              Saharanpur",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Madan Mohan Malaviya University of Technology",
+            "address": "Deoria Road Gorakhpur",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Mahatam Gandhi Kashi Vidyapeeth",
+            "address": "Varanasi-221 002 (U.P)",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Mahatma Jyotiba Phule Rohilkhand University",
+            "address": "Doli Lal Agarwal Marg,\n                              Bareilly",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Sampurnanand Sanskrit Vishwavidyalaya",
+            "address": "Varanasi - 221 002. (UP)",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Sardar Vallabh Bhai Patel University of Agriculture & Technology",
+            "address": "Modipuram, Meerut,U.P-250110",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Siddharth University",
+            "address": "Siddharth University Kapilvastu, Siddharth Nagar\n                              Siddharth Nagar",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "U.P. Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidhyalaya Evam Go-Anusandhan Sansthan",
+            "address": "College of Veterinary Science and Animal Husbandry, DUVASU, Mathura\n                              Uttar Pradesh",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "U.P. Rajarshi Tandon Open University",
+            "address": "Shantipuram (Sector-F), Phaphamau, Prayagraj, Uttar Pradesh.\n                              (Sector-F)Phaphamau\n                                Allahabad-211013",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "U.P.King George's University of Dental Sciences",
+            "address": "Lucknow",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Uttar Pradesh University of Medical Sciences",
+            "address": "Saifai,\n                              Etawah",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Veer Bahadur Singh Purvanchal University",
+            "address": "Shahganj Road, Jaunpur\n                              PIN-222002   (U.P.)",
+            "state": "Uttar Pradesh "
+        },
+        {
+            "university_name": "Delhi Pharmaceutical Sciences & Research University",
+            "address": "M.B. Road, Pushp Vihar Sector III, Near Sainik Farm gate no. 01\n                              Sector - III,\n                                Pushp Vihar, M B Road,",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Delhi Skill and Entrepreneurship University",
+            "address": "Integrated Institute of Technology Complex,\n                              Sector-9,\n                                Dwarka",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Delhi Sports University",
+            "address": "Ludlow Castle Sports Complex\n                              Shamnath Marg\n                                Delhi",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Delhi Teachers University",
+            "address": "P 625 &amp; 745,\n                              Outram Lane,\n                                New Delhi",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Delhi Technological University",
+            "address": "Shahbad Daultapur, Bawana Road,\n                              Delhi",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Dr. B.R. Ambedkar University",
+            "address": "Lothian Road, Kashmere Gate, Delhi\n                              Delhi",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Guru Gobind Singh Indraprastha Vishwavidyalaya",
+            "address": "Sector-16C, Dwarka New Delhi",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Indira Gandhi Delhi Technical University for Women",
+            "address": "Kashmere Gate\n                              Delhi",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Indraprastha Institute of Information Technology",
+            "address": "OKHLA PHASE-III, NEW DELHI\n                              Okhala Industrial Estate,,\n                                Okhla Phase III",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "National Law University",
+            "address": "Sector-14, Dwarka\n                              New Delhi-110 078",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "Netaji Subhas University of Technology",
+            "address": "Sector 3, Dwarka\n                              Sector-3,\n                                Dwarka",
+            "state": "Delhi"
+        },
+        {
+            "university_name": "A.P.J. Abdul Kalam Technological University",
+            "address": "CET Campus,\n                              Thiruvananthapuram",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Calicut University",
+            "address": "Calicut University P.O.\n                              Malappuram District\n                                Calicut",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Cochin Unviersity of Science & Technology",
+            "address": "Cochin University of Science and technology, Kochi, Ernakulam, Kerala State",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Kannur University",
+            "address": "Mangattuparamba\n                              Distt- Kannur",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Kerala Agricultural Unviersity",
+            "address": "Kerala Agricultural University KAU Main Campus KAU P.O., Vellanikkara, Thrissur, Kerala, 680656\n                              Thrissur - 680 654.",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Kerala University",
+            "address": "Thiruvananthapuram - 695 0",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Kerala University of Digital Sciences Innovation and Technology",
+            "address": "Technology Campus\n                              Kuracode, Mangalapuramm\n                                Thonnakkal P.O., Thiruvananthapuram",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Kerala University of Fisheries & Ocean Studies",
+            "address": "Panangad P.O, Kochi \n                              Kochi",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Kerala University of Health Sciences",
+            "address": "Trissur",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Kerala Veterinary & Animal Sciences University",
+            "address": "Kerala Veterinary and Animal Sciences University, Pookode, Wayanad, Kerala\n                              Wayanad",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Mahatma Gandhi Unversity",
+            "address": "Kottayam,\n                              PIN - 686 560. (KERALA).",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "National University of Advanced Legal Studies (NUALS)",
+            "address": "HMT Colony P.O., Kalamassery, Kochi\n                              Kochi-682017, Kerala",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Shree Sankaracharaya University of Sanskrit",
+            "address": "P.B.No. 14, Kalady District,\n                              Ernakulam\n                                Kalady",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Sree Narayanguru Open University",
+            "address": "Kollam",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Thunchath Ezhuthachan Malayalam University",
+            "address": "Vakad po, Vakad, Tirur, Malappuram District\n                              Vakkad PO,  Tirur,\n                                Malappuram",
+            "state": "Kerala "
+        },
+        {
+            "university_name": "Puducherry Technological University",
+            "address": "Pillaichavady,\n                              Puducherry",
+            "state": "Puducherry"
+        },
+        {
+            "university_name": "Doon University",
+            "address": "Campus Office\n                              388/2, Indira Nagar\n                                Dehradun",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "G.B.Pant University of Agriculture & Technology",
+            "address": "Pantnagar\n                              Udham Singh Nagar-263 145\n                                Uttarakhand",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Hemvati Nandan Bahuguna Medical Education University",
+            "address": "124, Ganga Vihar\n                              Opposite Roadways Workshop\n                                Haridwar Road, Dehradun",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Kumaun University",
+            "address": "Sleepy Hallow,Mallital,Nainital",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Soban Singh Jeena University",
+            "address": "Almora",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Sri Dev Suman Uttarakhand Vishwavidyalaya",
+            "address": "Badshahithaul, Tehri Garhwal",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Uttarakhand Aawasiya Viswavidyalaya",
+            "address": "Jagat Singh Bist Rajkiya Hotel Management and Catering Sansthan Parisar,\n                              Chilkapita, Khatyadi,\n                                Almora",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Uttarakhand Ayurved University",
+            "address": "Railway Road, Harrawala, Dehradun\n                              Rajpur Road\n                                Dehradun",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Uttarakhand Open University",
+            "address": "Teenpani Bypass, Rampur Road, Haldwani\n                              Post Office:- Industrial Estate\n                                Haldwani (Nainital)",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Uttarakhand Sanskrit University",
+            "address": "NH-58, BHEL More,Haridwar-Delhi National Highway,\n                                P.O. Bahadarabad\n                                Haridwar",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Uttarakhand Technical University",
+            "address": "Uttarakhand Technical University,Suddhowal post office chandan wadi,dehradun Uttarkhand\n                              wala, Dehrdun",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry",
+            "address": "VCSG Uttarakhand University of Horticulture &amp; Forestry, Bharsar, Pauri Garhwal , Uttarakhand\n                              Uttrakhand",
+            "state": "Uttarakhand "
+        },
+        {
+            "university_name": "Goa University",
+            "address": "Taleigao Plateau Goa.\n                              Goa - 403 206",
+            "state": "Goa "
+        },
+        {
+            "university_name": "Atal Bihari Bajpayee Vishwavidyalaya (Formerly Bilaspur Vishwavidyalaya)",
+            "address": "In front of Koni Police Station\n                              Bilaspur- Ratanpur Road, Koni, Bilaspur(CG)",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Ayush and Health Sciences University of Chhattisgarh",
+            "address": "Uparwara, Atal Nagar, Sector 40, Nava Raipur C.G.\n                              Raipur,",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Chhattisgarh Kamdhenu Vishwavidyalaya",
+            "address": "Dau Shri Vasudev Chandrakar Kamdhenu Vishwavidyala, Anjora, Durg",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Chhattisgarh Swami Vivekanad Technical Universty",
+            "address": "North Park Avenue , Sector-8\n                              Bhilai, Durg-490009\n                                Chatisgarh",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Hemchand Yadav Vishwavidyalaya(Earlier known as Durg Vishwavidyalaya)",
+            "address": "Raipur Naka,\n                              Durg",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Hidayatullah National Law University",
+            "address": "Nava Raipur Atal Nagar, Raipur\n                              Chattisgarh-493661",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Indira Gandhi Krishi Vishwavidyalaya",
+            "address": "Krishak Nagar\n                              Raipur - 492 012.(Chattisgarh)",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Indira Kala Sangeet Vishwavidyalaya",
+            "address": "Khairagarh",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "International Institute of Information Technology",
+            "address": "Plot No.-7, Sector 24,\n                              Near Purkhoti, Muktangan,\n                                Naya Raipur",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Kushabhau Thakre Patrakarita Avam Jansanchar Vishwavidyalaya",
+            "address": "At: Kathadih, Po: Sunder Nagar, Raipur",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Mahatma Gandhi Udyanikee and Vanikee Vishwavidyalaya",
+            "address": "Sankra-Patan\n                              District- Durg",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Pandit Sundarlal Sharma (Open) University",
+            "address": "Koni Birkona Road, Bilaspur, Chhattisgarh, \n                              Bilaspur-495001\n                                Chhattisgarh",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Pt. Ravishankar Shukla University",
+            "address": "Pt. Ravishankar Shukla University, Amanaka G. E. Road Raipur, C.G.\n                              \n                                Chattisgarh",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Sant Gahira Guru Vishwavidyalaya (formerly Sarguja University)",
+            "address": "Sant Gahira Guru Vishwavidyalaya\n                              Sarguja-Ambikapur- Darripara, Hospital Road \n                                Ambikapur Distt. Surguja",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Shaheed Mahendra Karma Vishvidyalaya",
+            "address": "Dharampura 2, Jagdalpur, Distt. Bastar, Chhattisgarh\n                              Chhattisgarh -494005",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Shaheed Nandkumar Patel Vishwavidyalaya",
+            "address": "Garhumaria, Odisha Road,\n                              Raigarh",
+            "state": "Chhattisgarh"
+        },
+        {
+            "university_name": "Baba Farid University of Health Sciences",
+            "address": "Baba Farid University of Health Sciences, Sadiq Road, Faridkot, Punjab, India\n                              Faridkot-151 203\n                                Panjab",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Guru Angad Dev Veterinary & Animal Sciences University",
+            "address": "Guru Angad Dev Veterinary and Animal Sciences University , Ferozepur Road, Ludhiana\n                              Punjab-141004",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Guru Nanak Dev University",
+            "address": "G.T Road Amritsar\n                              PIN - 143 005",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Guru Ravidas Ayurved University",
+            "address": "Jodhmal Hohiarpur, Punjab",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Jagat Guru Nanak Dev Punjab State Open University",
+            "address": "C-28, \n                              The Lower Mall\n                                Patiala",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Maharaja Ranjit Singh Punjab Technical University",
+            "address": "MAHARAJA RANJIT SINGH PUNJAB TECHNICAL UNIVERSITY, DABWALI ROAD, BATHINDA \n                              Bathinda",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Punjab Agriculture University",
+            "address": "Ludhiana - 141 004.",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Punjabi University",
+            "address": "Rajpura road Patiala\n                              PIN - 147 002.",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Sardar Beant Singh State University",
+            "address": "Gurdaspur",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Shaheed Bhagat Singh University",
+            "address": "Ferozepur",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Sri Guru Teg Bahadur State University of Law",
+            "address": "Tarn Taran",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "The I.K. Gujaral Punjab Technical University",
+            "address": "I.K. Gujral Punjab Technical University Jalandhar, Jalandhar-Kapurthala Highway, Kapurthala, Punjab",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "The Maharaja Bhupinder Singh Punjab Sports University",
+            "address": "Mohindra Kothi,\n                              Near Fountain Chowk,\n                                Patiala",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "The Rajiv Gandhi National University of Law",
+            "address": "Sidhuwal, Bhadson Road, Patiala",
+            "state": "Punjab "
+        },
+        {
+            "university_name": "Aliah University",
+            "address": "IIA/27, New Town, Kolkata\n                              New Town, \n                                Kolkata",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Alipurduar University",
+            "address": "P. O. - Alipurduar Court,\n                              Dist. - Alipurduar",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Bankura University",
+            "address": "Main Campus, Bankura Block-II, P.O.-Purandarpur\n                              PO Bhagabandh,\n                                Dist. Bankura",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Bidhan Chandra Krishi Vishwavidyalaya",
+            "address": "Mohanpur, Nadia, West Bengal\n                              Distt. Nadia 741 252 (WB)",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Biswa Bangla Biswabidyalay",
+            "address": "Bolpur, Birbhum",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Burdwan University",
+            "address": "Rajbati\n                              Burdwan",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Calcutta University",
+            "address": "Kolkata\n                              PIN - 700 073.",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Cooch Behar Panchanan Barma University",
+            "address": "COOCH BEHAR PANCHANAN BARMA UNIVERSITY, Panchanan Nagar, Vivekananda Street, Cooch Behar - 736101, West Bengal, India\n                              Cooch Behar",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Dakshin Dinajpur University",
+            "address": "North Chakbhabani (near LIC office)\n                              Balurghat, Dakshin Dinajpur",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Darjeeling Hills University",
+            "address": "Jogighat Mangpu\n                              Dist.- Darjeeling,",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Diamond Harbour Women's University",
+            "address": "Sarisha, Diamond Harbour Road, South 24 Parganas, West Bengal\n                              Diamond Harbour Road, \n                                District: South 24 paraganas,",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Harichand Guruchand University",
+            "address": "North 24 parganas",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Hindi University",
+            "address": "Howrah",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Jadavpur University",
+            "address": "188, Raja S. C. Mallik Road, Jadavpur, Kolkata\n                              Kolkatta,\n                                PIN - 700 032.",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Kalyani University",
+            "address": "Kalyani",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Kanyashree University",
+            "address": "Krishnanagar,\n                              Nadia",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Kazi Nazrul University",
+            "address": "Nazrul Road, Kalla Bypass More\n                              PO – Kalla, C. H., P. s. Asansol (North)\n                                Dist. Paschim Bardhman",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Maulana Abul Kalam Azad University of Technology",
+            "address": "BF-142, Sector-1, \n                              Salt Lake city,\n                                Sector-I, Kolkata",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Murshidabad University",
+            "address": "1,No. Sahid Surya Sen Road\n                              P.O.-Berhampore,\n                                District Murshidabad",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Netaji Shubhash Open University",
+            "address": "DD-26,Sector-I,Salt Lake,Kolkata-700 074\n                              Salt Lake, Sector-1,\n                                Kolkata.",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Presidency University",
+            "address": "86/1, College Street, Kolkata\n                              Kolkata",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Rabindra Bharati University",
+            "address": "56A, B.T. ROAD, KOLKATA - 700 050\n                              Kolkata - 700 050.",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Raiganj University",
+            "address": "P.O. Raiganj,\n                              Dist. Uttar Dinajpur\n                                West Bengal",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Rani Rashmoni Green University(formerly West Bengal Green University.)",
+            "address": "At the premises of Singur General Degree College, Singur, Hooghly, West Bengal",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Sadhu Ram Chand Murmu University of Jhargram( formerly Jhargram University)",
+            "address": "Jhargram Raj College, \n                              Jhagram",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Sidho-Kanho-Birsha University",
+            "address": "Sidho-Kanho-Birsha University, Rachi Road, PO- Sainik School, Dist.- Purulia, PIN-723104, West Bengal\n                              Ranchi Road Campus,\n                                Near Sainik School,Purulia",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "The Bengal Engineering & Science University",
+            "address": "Shibpur\n                              Howrah",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "The Sanskrit College and University",
+            "address": "Bankim Chaterjee Street\n                              Kolkata",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "The West Bengal National University of Juridical Science",
+            "address": "Aranya Bhavan,\n                              10A LA Blk.,S.L City,Calcutta",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "The West Bengal University of Health Sciences",
+            "address": "DD-36, Secotor-1\n                               Salt Lake\n                                Kolkata",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "University of Gour Banga",
+            "address": "Post Office - Mokdumpur, District - Malda,West Bengal, Pin Code - 732103\n                                Distt. Malda",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "University of North Bengal",
+            "address": "PO: North Bengal University, Dist: Darjeeling, West Bengal\n                              PO North Bengal University,\n                                District Darjeeling",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Uttar Banga Krishi Vishwavidyalaya",
+            "address": "P.O. Pundibari, Dist. Coochbehar, PIN- 736165\n                              Cooch Behar, West Bengal-736165",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Vidya Sagar University",
+            "address": "PO. -Vidyasagar University\n                              Midnapore-721102,\n                                Dist.-paschim Mediripur, (W.B.)",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "West Bengal State University",
+            "address": "Berunanpukuria,Malikapur,Barasat, 24 Parganas(North),Kolkata - 700126\n                              Building 10knc, Kolkata-700124",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "West Bengal University of Animal and Fishery Sciences",
+            "address": "37 &amp; 68, ksudiram Bose Sarani, Kolkata-700037",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "West Bengal University of Teachers, Training, Education Planning and Administration",
+            "address": "25/2 &amp; 25/3, Ballygunge Circular Road\n                              Kolkata",
+            "state": "West Bengal "
+        },
+        {
+            "university_name": "Maharaja Sayajirao University of Baroda",
+            "address": "Head Office, Maharaja Fatehsinghrao Gaekwad Road,\n                              Fatehgunj,\n                                Vadodara",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Anand Agricultural University",
+            "address": "Anand Agricultural Univeristy , Khetiwadi campus, University bhavan, Anand-388001.",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Bhakta Kavi Narsinh Mehta University",
+            "address": "C/o Govt. Polytechnic College\n                              Bilkha Road\n                                Khadiya, Junagadh",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Birsa Munda Tribal University",
+            "address": "Vocational Training Centre (VTC), Near R.T.O. office, Vavdi road, Vavdi-Rajpipla, Dist: Narmada, Gujarat\n                              Near RTO Office, Vavdi Road,\n                                Vavdi-Rajpipla, Distt.- Narmada",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Children's University",
+            "address": "Subhash Chandra Bose Shikshan Sankul Sector 20 Gandhinagar \n                              Sector-20, Gandhinagar",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Dharmsinh Desai University",
+            "address": "P.Box No. 35\n                              College Road, Nadiad-387001",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Dr. Babasaheb Ambedkar Open University",
+            "address": "Jyotirmay' Parisar, \n                              Dr Babasaheb Ambedkar Open University Marg,\n                                Sarkhej Gandhinagar Highway, Chharodi, Ahmedabad",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Gujarat Ayurveda University",
+            "address": "Gujarat Ayurved University, Opp. B Division Police Station, Guru Dwara Road, Jamnagar-361008\n                              Jamnagar-361 008",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Gujarat Biotechnology University",
+            "address": "C/o Gujarat State Biotechnology Mission,\n                              Block 11, 9th Floor, Udyog Bhawan,\n                                Gandhinagar",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Gujarat National Law University",
+            "address": "ATTALIKA AVENUE, KNOWLEDGE CORRIDOR, KOBA, SUB P.O. KOBA, GANDHINAGAR, GUJARAT\n                              Koba (Sub P.O)\n                                Gandhinagar,",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Gujarat Natural Farming and Organic Agricultural University",
+            "address": "ATIC Building, Borsad Chokdi,\n                              Anad,",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Gujarat Technological University",
+            "address": "Nr.Vishwakarma Government Engineering College Nr.Visat Three Roads, Visat - Gandhinagar Highway Chandkheda, Ahmedabad \n                              Nr.Visat Three Roads, Visat - Gandhinagar Highway\n                                Chandkheda, Ahmedabad",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Gujarat University",
+            "address": "P.B.No.4010, Navrangpura,\n                              Ahmedabad",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Gujarat University of Transplantation Sciences",
+            "address": "IKDRC-ITS Premises, Civil Hospital - Medicity Campus, Asarwa, Ahmedabad – 380 016, Gujarat, India. \n                              Civil Hospital Campus,\n                                Asarwa, Ahmedabad",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Hemchandracharya North Gujarat University",
+            "address": "Hemchandracharya North Gujarat University, Patan \n                              Patan- 384 265. (GUJARAT)",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Indian Institute of Teacher Education",
+            "address": "Ramkrishna Paramhans Vidya Sankul, Kh Road, Sector 15, Gandhinagar, Gujarat\n                               Nr. Mahatma Mandir, G-4, Sector-15\n                                Gandhinagar",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Institute of Infrastructure Technology Research and Management",
+            "address": "Near Khokhra Circle, Maninagar (East), Ahmedabad-380 026, Gujarat, India\n                              Maninagar (East), \n                                Ahmedabad, Gujarat",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Junagarh Agricultural University",
+            "address": "Junagarh",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Kamdhenu University",
+            "address": "B-1 Wing, 4th Floor, Karmayogi Bhavan, Sector 10A Gandhinagar Gujarat\n                              Sector 10 A, Block B,\n                                Podium Level, Gandhinagar",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Krantiguru Shyamji Krishna Verma Kachchh University",
+            "address": "Mundra road bhuj kachchh\n                              Bhuj-Kachchh, Gujarat",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Maharaja Krishnakumarsinji Bhavnagar University",
+            "address": "S.V. Patel Campus,\n                              Gaurishanker Lake Road,\n                                Bhavnagar",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Navsari Agriculture University",
+            "address": "Navsari Agricultural University, Eru Char Rasta, Dandi Road, Navsari – 396 450 (Gujarat) INDIA",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Sardar Krushinagar Dantiwada Agricultural University",
+            "address": "Sardarkrushinagar Dantiwada Agricultural University, Sardarkrushinagar- 385 506, District. Banaskantha (Gujarat)\n                              Dist. Banaskantha",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Sardar Patel University",
+            "address": "Near Saheed Chowk, Nana Bazar, Vallabh Vidyanagar, Anand, Gujarat\n                              Anand-388 120. (GUJARAT)",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Saurashtra University",
+            "address": "Kalavad Road\n                              Rajkot \n                                Gujarat",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Shree Somnath Sanskrit University",
+            "address": "Ta: Veraval\n                              District Junagarh",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Shri Govind Guru University",
+            "address": "Government Polytechnic Campus, RTO Road, Gadukpur, Godhra, Dist. Panchmahal (Gujarat)-389001 \n                              Gadukpur,Godhra,\n                                Dist. Panchmahals",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Swarnim Gujarat Sports University",
+            "address": "Commerce College Campus, Opp Youth Hostel, Sector 15, Gandhinagar, Gujarat \n                              PTC Building Campus, Gandhinagar",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Veer Narmad South Gujarat University",
+            "address": "Udhna-Magdalla Road, Surat",
+            "state": "Gujarat "
+        },
+        {
+            "university_name": "Panjab University",
+            "address": "Sector-14/25\n                              Chandigarh",
+            "state": "Chandigarh "
+        },
+        {
+            "university_name": "Agriculture University",
+            "address": "Jodhpur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Bikaner Technical University",
+            "address": "University College of Engineering &amp; Technology,\n                              Bikaner Campus, Karni Industrial Area,\n                                Pugal Road, Bikaner",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Dr. Bhimrao Ambedkar Law University, Jaipur",
+            "address": "Jaipur\n                              Rajasthan",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Govind Guru Tribal University",
+            "address": "Shri Govind Guru Government College Campus,\n                              Banswara",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Haridev Joshi University of Journalism and Mass Communication",
+            "address": "II Floor, Rajiv Gandhi Vidya Bhavan, Sarvepalli Radhakrishnan Shiksha Sankul, JLN Marg, jaipur\n                              Shiksha Sankul, JLN Marg\n                                Jaipur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Jagadguru Ramanandacharya Sanskrit University",
+            "address": "Bhankrota - Muhana Link Road, Madau, Jaipur\n                              Jaipur-302026",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Jai Narain Vyas University",
+            "address": "Residency Road, Jodhpur (Rajasthan)\n                              PIN - 342 001.(RAJASTHAN",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Maharaja Ganga Singh University",
+            "address": "NH-15, Jaisalmer Road, Bikaner\n                              Jaisalmer Road\n                                Bikaner",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Maharaja Surajmal Brij University",
+            "address": "M.S.J. College, Campus\n                              Home » Contact Us Contact Us  Maharaja Surajmal Brij, University M.S.J. College, Campus Bharatpur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Maharana Pratap University of Agriculture & Technology",
+            "address": "Maharana Pratap University of Agriculture &amp; Technology, Udaipur 313001\n                              Udaipur-313001",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Maharshi Dayanand Saraswati University",
+            "address": "Pushkar Bye Pass\n                              Ajmer",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Mohanlal Sukhadia University",
+            "address": "Udaipur ",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "National Law University",
+            "address": "NH-65, Nagour Road Mandore\n                              Jodhpur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Pandit Deendayal Upadhyaya Shekhawati University",
+            "address": "Behind Shri Kalyan Government College\n                              Sikar",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Raj Rishi Bhartrihari Matsya University",
+            "address": "Girls Hostel Building\n                              Babu Shobharam Government Arts College Campus\n                                Alwar",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Rajasthan Ayurveda University",
+            "address": "City office,82, Income Tax Col.\n                              Paota'C'Road, Jodhpur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Rajasthan ILD Skills University (RISU)",
+            "address": "3rd Floor, Rajeev Gandhi Vidhya Bhawan, Shiksha Sankul, JLN Marg, Jaipur\n                              M. I. Road\n                                Jaipur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Rajasthan Technical University",
+            "address": "Rawat bhata Road\n                              Kota-324 010, Rajasthan",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Rajasthan University",
+            "address": "J L N Marg\n                              PIN - 302 004.",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Rajasthan University of Health Sciences",
+            "address": "Kumbha Marg, Pratap Nagar,\n                              Sector-18, Tonk Road,\n                                Sanganer, Jaipur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Rajasthan University of Veterinary & Animal Sciences",
+            "address": "Bijey Bhawan Palace Complex, RAJUVAS, Bikaner",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Sardar Patel University of Police, Security & Criminal Justice",
+            "address": "Opp. Gramin Police line\n                              Mathania Road, Daijar\n                                Jodhpur",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Swami Keshwanand Rajasthan Agricultural University",
+            "address": "Beechwal, Sriganganagar Road,\n                              Bikaner",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "University of Kota",
+            "address": "Kota\n                              Rajasthan",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Vardhman Mahaveer Open University",
+            "address": "Rawatbhata Road, Kota\n                              RAJASTHAN",
+            "state": "Rajasthan"
+        },
+        {
+            "university_name": "Dr. B.R.Ambedkar Open University",
+            "address": "Prof. G. Ram Reddy Marg, Road No. 46, Jubilee Hills, Hyderabad\n                              Hyderabad - 500 033.",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Jawaharlal Nehru Architecture and Fine Arts University",
+            "address": "Masab Tank, Hyderabad\n                              Masab Tank,\n                                Hyderabad",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Jawaharlal Nehru Technological University",
+            "address": "Kukatpally\n                              Hyderabad - 500 085.\n                                Andhra Pradesh",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Kakatiya University",
+            "address": "Kakatiya University,\n                              Warangal, Vidyaranyapuri,\n                                PIN - 506 009.",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Kaloji Narayana Rao University of Health Sciences",
+            "address": "Kakatiya Medical College Campus,\n                              Rangampet,\n                                Warangal (U)",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Mahatma Gandhi University",
+            "address": "Post. Yellareddygudem \n                              Panagal,\n                                 Nalgonda",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "National Academy of Legal Studies & Research University",
+            "address": "Justice City, Shameerpet, Medchal District, Telangana State, India",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Nizam's Institute of Medical Sciences",
+            "address": "Punjagutta\n                              Hyderabad",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Osmania University",
+            "address": "Administrative Building Osmania University Campus Hyderabad-500007, Telangana State, India.\n                              PIN - 500 007.",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "P. V. Narsimha Rao Telangana Veterinary University",
+            "address": "Administrative Office, Rajendranagar, \n                              Hyderabad",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Palamuru University",
+            "address": "Ayyappa Complex\n                              Opp. Police Head Quarters,\n                                Mahabubnagar-509001",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Potti Sreeramulu Telugu University",
+            "address": "Lalitakala -Kshetram\n                              Hyderabad-500004",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Professor Jayashankar Telangana State Agricultural University",
+            "address": "Administrative Office, Rajendranagar, Hyderabad \n                              Hyderabad",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Rajiv Gandhi University of Knowledge Technology",
+            "address": "RGUKT BASAR, MA:BASAR, DT:NIRMAL, TELANGANA, PIN 504107\n                              IIIT-H Campus, Gachibowli\n                                Hyderabad",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Satavahana University",
+            "address": "SATAVAHANA UNIVERSITY, MALKAPUR ROAD, KARIMNAGAR, TELANGANA STATE\n                              Andhra Pradesh-505001",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Sri Konda Laxman Telangana State Horticultural University",
+            "address": "SKLTSHU,Mulugu, Siddipet district, Telangana -502279.\n                              Hyderabad",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Telangana University",
+            "address": "Vil: Nadpally, Suddapally, Mdl: Dichpally, Dist.: Nizamabad\n                              Nizamabad- 503 322\n                                Andhra Pradesh",
+            "state": "Telangana"
+        },
+        {
+            "university_name": "Bhagat Phool Singh Mahila Vishwavidyalaya",
+            "address": "B.P.S. Mahila Vishwavidyalaya, Khanpur Kalan, Sonipat Sonipat\n                              Sonipat, Haryana",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Chaudhary Bansi Lal University",
+            "address": "Hansi Road Bhiwani, Haryana",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Chaudhary Devi Lal University",
+            "address": "Barnala Road, Near Mini Sectt. Sirsa\n                              Haryana -125 055",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Chaudhary Ranbir Singh University",
+            "address": "Chaudhary Ranbir Singh University, Rohtak Road, Jind",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Choudhary Charan Singh Haryana Agricultural Univeersity",
+            "address": "Directorate of Human resource Management",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Deen Bandhu Chhotu Ram University of Sciences & Technology",
+            "address": "50th K.M. Stone, N.H. 1, Murthal (Sonepat) Haryana, India",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Dr. B.R. Ambedkar National Law University",
+            "address": "Dr. B.R. Ambedkar National Law University, Plot No. 5, Rajiv Gandhi Education City (RGEC), National Capital Region, P.O. Rai, Sonipat, Haryana\n                              Sonipat,",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Guru Jambeshwar University of Science and Technology",
+            "address": "Guru Jambheshwar University of Science &amp; TechnologyHisar - Haryana ",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Gurugram University",
+            "address": "Gurugram University, Sec-51, Mayfield Garden, Gurugram Haryana Gurugram, Haryana \n                              Sector-51,\n                                Gurugram",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Indira Gandhi University",
+            "address": "Meerpur,Rewari ",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "J. C. Bose University of Science & Technology, YMCA",
+            "address": "Faridabad\n                              Sector-6",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Kurukshetra University",
+            "address": "Kurukshetra\n                              PIN - 136 119  (HARYANA)",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Lala Lajpat Rai University of Veterinary & Animal Sciences",
+            "address": "CCSHAU Campus",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Maharana Partap Horticultural University",
+            "address": "Karnal",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Maharishi Balmiki Sanskrit University",
+            "address": "Mundri,\n                              Kaithal",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Maharishi Dayanand University",
+            "address": "Rohtak\n                              PIN - 124 001. (HARYANA)",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Pandit Lakhmi Chand State University of Performing and Visual Arts (SUPVA)",
+            "address": "Sector-6\n                              Rohtak",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Pt. Bhagwat Dayal Sharma University of Health Sciences",
+            "address": "Rohtak-124001\n                              Haryana",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Shri Krishna AYUSH University",
+            "address": "Umri Road, Sector-8,\n                              Kurukshetra",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Shri Vishwakarma Skill University",
+            "address": "Dudhola, Palwal",
+            "state": "Haryana "
+        },
+        {
+            "university_name": "Atal Bihari Vajpayee Hindi Vishwavidyalaya",
+            "address": "Mungalia Kot,\n                              Rajharsh Colony, Kolar Marg\n                                Bhopal",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Awadesh Pratap Singh University",
+            "address": "Rewa - 486 003.",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Barkatullaah University",
+            "address": "Hoshangabad Road, Bhopal - 462 026.",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Devi Ahilya Vishwavidyalaya",
+            "address": "R.N.Tagore Marg,\n                              Indore",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Dharmashastra National Law University",
+            "address": "BRBRAITT Campus South Civil Lines ,Ridge Road Jabalpur \n                              Ridge Road,\n                                Civil Lines, Jabalpur",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Dr. B. R. Ambedkar University of Social Sciences",
+            "address": "Dr. Ambedkar Nagar, \n                              Mhow-453441\n                                Dist-Indore, MP",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Jawaharlal Nehru Krishi Vishwavidyalaya",
+            "address": "Krishinagar\n                              Jabalpur-482 004.",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Jiwaji University",
+            "address": "Gwalior\n                              PIN - 474 001. (MP)",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "M.P.Bhoj (open) University",
+            "address": "Kolar Road Bhopal\n                              Kolar Road,\n                                Bhopal",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Maharaja Chhatrasal Bundelkhand Vishwavidyalaya",
+            "address": "GOVT MAHARAJA COLLEGE CAMPUS",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Maharshi Panini Sanskrit Evam Vedic Vishwavidyalaya",
+            "address": "B.M.birla Shodh Sansthan Parisar,\n                              Dewas Road, Ujjain\n                                Madhya Pradesh",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya",
+            "address": "Chitrakoot\n                              District Satna",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Makhanlal Chaturvedi National University of Journalism & Communication",
+            "address": "B-38, Vikas Bhavan, Press Complex,\n                               MP Nagar, Zone-1\n                                Bhopal",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Nanaji Deshmukh Pashu Chikitsa Vigyan Vishwavidyalaya",
+            "address": "Adhartal, Jabalpur-482004, Madhya Pradesh\n                              Jabalpur",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "National Law Institute University",
+            "address": "Kerwa Dam Road, Bhopal\n                              Barkeri Kalan\n                                Bhopal",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Pandit S N Shukla University",
+            "address": "Nawalpur, Shahdol, M.P.",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Raja Mansingh Tomar Music & Arts University",
+            "address": "Mahadaji Chowk\n                              Achaleshwar Marg\n                                Gwalior",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Raja Shankar Shah University, Chhindwara",
+            "address": "Library building of Government Autonomous Post Graduate College,\n                              Chhindwara,",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Rajiv Gandhi Prodoyogiki Vishwavidyalaya",
+            "address": "Airport Bypass\n                              Gandhi Nagar\n                                Bhopal (M.P.)",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Rajmata Vijayaraje Scindia Krishi Vishwa Vidyalaya",
+            "address": "Opp. Mela Ground\n                              Race Course Road\n                                Gwalior,Madhya Pradesh",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Rani Durgavati Vishwavidyalaya",
+            "address": "Jabalpur - 482 001. (M.P)",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Sanchi University of Buddhist-Indic Studies",
+            "address": "2nd Floor, Institute of Good Governance &amp; Policy Analysis\n                              Bhadbhada Square,\n                                Bhopal",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Vikram University",
+            "address": "Ujjain,",
+            "state": "Madhya Pradesh "
+        },
+        {
+            "university_name": "Khangchendzonga State University, Sikkim",
+            "address": "Nar Bahadur Bhandari Government College Complex\n                              PO Tadong\n                                Gangtok, East Sikkim",
+            "state": "Sikkim "
+        },
+        {
+            "university_name": "Sikkim National Law University",
+            "address": "Sikkim Government Law College\n                              Burtuk(Campus)\n                                Gangtok",
+            "state": "Sikkim "
+        },
+        {
+            "university_name": "University of Ladakh",
+            "address": "Silk Route Rest House, \n                              TRC, Leh\n                                Territory of Ladakh",
+            "state": "Ladakh"
+        },
+        {
+            "university_name": "Atal Medical and Research University(Formerly Himachal Pradesh University of Health Sciences)",
+            "address": "SLBS Medical College &amp; Hospital Campus\n                              Ner Chowk, Distt- Mandi,\n                                Mandi",
+            "state": "Himachal Pradesh "
+        },
+        {
+            "university_name": "Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya",
+            "address": "District Kangra Himachal Pradesh\n                              Tehsil, Palampur,Dist.-Kangra",
+            "state": "Himachal Pradesh "
+        },
+        {
+            "university_name": "Dr. Y.S.Parmar University of Horticulture & Forestry",
+            "address": "Nauni Solan (HP) ",
+            "state": "Himachal Pradesh "
+        },
+        {
+            "university_name": "Himachal Pradesh National Law University",
+            "address": "Himachal Pradesh National Law University, Ghandal. Sub Tehsil Dhami, Shimla, Himachal Pradesh-171014\n                              Sub-Tehsil Dhami,\n                                Shimla",
+            "state": "Himachal Pradesh "
+        },
+        {
+            "university_name": "Himachal Pradesh Technical University",
+            "address": "Government Polytechnic,\n                              Baru,\n                                Hamirpur",
+            "state": "Himachal Pradesh "
+        },
+        {
+            "university_name": "Himachal Pradesh University",
+            "address": "Summer Hills\n                              Shimla - 171 005. (HP)",
+            "state": "Himachal Pradesh "
+        },
+        {
+            "university_name": "Sardar Patel University Mandi",
+            "address": "Vallabh Government College Campus\n                              Administrative Block\n                                Mandi Sadar, Mandi",
+            "state": "Himachal Pradesh "
+        }
+    ]
+}

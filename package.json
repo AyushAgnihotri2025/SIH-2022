@@ -29,6 +29,8 @@
     "mongoose": "^6.5.2",
     "nodemailer": "^6.7.8",
     "nodemon": "^2.0.19",
-    "popup": "^0.0.3"
+    "popup": "^0.0.3",
+    "puppeteer": "^16.2.0",
+    "puppeteer-extra": "^3.3.4"
   }
 }

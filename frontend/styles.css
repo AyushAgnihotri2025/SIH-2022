@@ -1,17 +1,15 @@
 body {
-  /*background-image: url("images/homepage_img0.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;*/
   background-color: #ffffff;
   position: relative;
-  height: 96vh;
   overflow-x: hidden;
+  margin:0vw;
   
 }
 
 
 /*container containing header, bg image and heading*/
 #container1_1{
+  margin-top: 0%;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -96,15 +94,16 @@ body {
 }
 /*navigation bar at the top right*/
 #navigation1 {
-  position: absolute;
+  position: relative;
   height: 25px;
-  width: 510px;
-  border-radius: 50px;
+  width: 495px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
   display: flex;
   flex-direction: row;
-  margin-top: 10px;
-  margin-left: 66vw;
-  padding: 15px 10px 20px 10px;
+  margin-top: 0vw;
+  margin-left: 37vw;
+  padding: 15px 0px 20px 10px;
   align-items: center;
   background-color: #293241;
 }
@@ -173,7 +172,7 @@ body {
   align-items: center;
   width:99vw;
   background-color: #f8dad3;
-  margin-top: -10px;
+  
 }
 
 /*logo position within block*/
@@ -296,7 +295,7 @@ body {
   display: flex;
   flex-direction: row;
   width: 100%;
-  padding: 0 15%;
+  padding: 0 6%;
   background:#f8dad3;
   color: black;
 }
@@ -304,13 +303,11 @@ body {
 .footer1 div{
   text-align: center;
   flex-grow: 0.2;
-  right:100vw;
   font-weight: 300vw;
-  margin-bottom: 0vw;
 }
 
 
-.col_1 a, .col_2 p, .col_3 p {
+.col_1 a, .col_2 p, .col_3 p, .col_4 p {
   text-decoration: none;
   display:block;
   margin-bottom: 0.8vw;
@@ -342,14 +339,14 @@ body {
 
 /*copyright block in footer*/
 .copyright1{
-  padding: 0.7vw 35%;
+  padding: 0.7vw 1%;
+  text-align:center;
   color: #ffffff;
   background:#293241;
   width:100%;
 }
 
 #homebutton1 {
-
   background-color: #ffffff;
   color: #293241;
   font-size: 13px;

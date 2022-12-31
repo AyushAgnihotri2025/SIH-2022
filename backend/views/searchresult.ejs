@@ -35,7 +35,8 @@
     <div>
         <hr style="height: 2px;background-color:#293241; opacity: 100; margin-top: 0vw; width: 101%;" />
     </div>
-    <div style="border-style:solid; box-sizing: 5vw 5vw ;  align-content: center; margin: 10vw 20vw; background-color: #f8dad3;">
+    <div
+        style="border-style:solid; box-sizing: 5vw 5vw ;  align-content: center; margin: 10vw 20vw; background-color: #f8dad3;">
         <% if(temp){%>
             <h1 style="font-size: 2vw; text-align: center; margin-top: 5vw;">University Name :-
                 <%= universityname %>
@@ -46,16 +47,23 @@
             <h1 style="font-size: 2vw; text-align: center; margin-top: 1vw; margin-bottom: 5vw;">State :-
                 <%= state %>
             </h1>
-            <h2 style="text-align:center ;"><em>Verified By Official Website Of UGC <br><center><a href="https://www.ugc.ac.in">ugc.ac.in</a></center></em></h2>
+            <h2 style="text-align:center ;"><em>Verified By Official Website Of UGC <br>
+                    <center><a href="https://www.ugc.ac.in">ugc.ac.in</a></center>
+                </em></h2>
             <%} %>
                 <% if(temp=='0' ){%>
-                    <center><h2>No University With This Name Is Verified By The UGC</h2></center>
+                    <center>
+                        <h2 style="text-align:center ;"><em>*Either This University Doesn't Exist Or You Have Types The
+                                Wrong Name*<br>
+                            </em></h2>
+                    </center>
+
                     <%} %>
     </div>
     <hr style="width:101%;
          height: 2px;background-color:#293241; opacity: 100; margin-top: 18vw; margin-bottom: 0vw;" />
     <div class="footer1">
-        
+
         <div class="col_1">
             <!--links to required pages in footer-->
             <h2> USEFUL LINKS </h2>
@@ -75,6 +83,11 @@
             <h2>CONNECT US</h2>
             <p>011-23604446<br><br>011-23604200<br><br>contact.ugc@nic.in</p>
         </div>
+        <div class="col_4">
+            <!--Team Members data-->
+            <h2>CONTRIBUTORS</h2>
+            <p>Himanshu Verma<br><br>Asmit Gupta<br><br>Aastha Agarwal<br><br>Manya Agarwal<br><br>Mr. Kumar Saurabh - Mentor<br>(Assistant Professor)</p>
+        </div>
     </div>
 
     <!--adding icons
@@ -92,7 +105,7 @@
         <!--at the end of footer-->
         <p>Copyright © 2022-University Grants Commission New Delhi, India.</p>
     </div>
-    
+
 </body>
 
 </html>

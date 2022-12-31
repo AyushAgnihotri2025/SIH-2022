@@ -6,7 +6,7 @@ const logger = (message) => console.log("✅ " + message);
 
 const puppeteer = require("puppeteer-extra");
 const data = require("./input.json");
-var fs = require('fs');
+var fs = require("fs");
 async function single_page_scraper(URL) {
   logger("STARTED SCRAPPING FOR ", URL);
   const browser = await puppeteer.launch({
@@ -16,7 +16,7 @@ async function single_page_scraper(URL) {
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
   const page = await browser.newPage();
-  await page.goto(URL, { waitUntil: "load" });
+  await page.goto(URL, { timeout: 0 });
   const university_names = await page.evaluate(() => {
     let names = Array.from(document.querySelectorAll("b"));
     let names_final = [];
@@ -65,31 +65,33 @@ function sleep(ms) {
   });
 }
 
-
-async  function scrape_university (university_type)  {
+async function scrape_university(university_type) {
   //to call single_page_extraction for each url
 
-  let state = data.types.state;
+  let state = data.types[university_type];
   let final_data = [];
 
   for (let i = 0; i < state.length; i++) {
     try {
       let res = await single_page_scraper(state[i]);
       console.log(res);
-      Array.prototype.push.apply(final_data,res)
+      Array.prototype.push.apply(final_data, res);
     } catch (err) {
       console.log(err);
     }
   }
-  fs.writeFile(`${university_type}.json`,JSON.stringify({state:final_data}),'utf8',()=>{
-    logger("SUCCESSFULLY UPDATED THE FILES")
-  })
-};
+  fs.writeFile(
+    `${university_type}.json`,
+    JSON.stringify({ state: final_data }),
+    "utf8",
+    () => {
+      logger("SUCCESSFULLY UPDATED THE FILES");
+    }
+  );
+}
 
 //run these functions one at a time and then comment the other three
-scrape_university('state');
+// scrape_university('state');
 // scrape_university('central')
-// scrape_university('deemed')
-// scrape_university('private')
-
+scrape_university('deemed');
 

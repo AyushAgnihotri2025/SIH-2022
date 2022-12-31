@@ -1,10 +1,13 @@
 body{
     background-color: #ffffff;
+    position: relative;
     overflow-x: hidden;
+    margin: 0vw;
 }
 
 /*terms and conditions heading*/
 #heading7{
+  margin-top: 2%;
   text-align: center;
     font-size: 45px;
 }
@@ -19,11 +22,8 @@ body{
     margin-left: 400px;
 }
 
-/*container for points*/
-#container7_1{
-    padding: 20px;
-    margin-right: 50px;
-}
+
+
 /*login button at the top right*/
 #Login-button7 {
 
@@ -64,7 +64,7 @@ body{
 }
 /*navigation bar at the top right*/
 #navigation7{
-  position: absolute;
+  position: relative;/*absolute;*/
   height: 25px;
   width: 495px;
   border-top-left-radius: 50px;
@@ -72,7 +72,7 @@ body{
   display: flex;
   flex-direction: row;
   margin-top: 0vw;
-  margin-left: 65.3vw;
+  margin-left: 37vw;/*65.3vw;*/
   padding: 15px 0px 20px 10px;
   align-items: center;
   background-color: #293241;
@@ -102,6 +102,12 @@ body{
  /* background-color:rgb(219, 9, 9);*/
   cursor: pointer;
 }
+/*
+#container7_1{
+  background-color:rgb(219, 9, 9);
+}*/
+
+
 #container77 {
   position: relative;
   height: 25px;
@@ -110,9 +116,9 @@ body{
   padding: 31px 10px 31px 10px;
   align-items: center;
   background-color: #f8dad3;
-  width: 106%;
-  margin-top: -28px;
-  margin-left: -25px;
+  width: 100%;
+  
+ 
 }
 
 /*logo position within block*/
@@ -137,41 +143,33 @@ body{
   /*background-color: #f65b35*/
   cursor: pointer;
 }
-/*fake un
 
 /*footer block position */
 .footer7 {
+  position: relative;
   display: flex;
   flex-direction: row;
-  width: 1059px;
-  align-items: center;
-  padding: 0 15%;
+  padding: 0 6%;
   background:#f8dad3;
   color: black;
-  margin-top: 0px;
-  margin-left: -26px;
-  width: 1095px;
+  width: 100%;
 }
 
 .footer7 div{
   text-align: center;
   flex-grow: 0.2;
-  right:100vw;
   font-weight: 300vw;
-  margin-bottom: 0vw;
-  margin-left: 100px;
+ 
 }
-.col7_1{
-  margin-top: 10px;
-}
-.col7_1 a, .col7_2 p, .col7_3 p {
+
+.col7_1 a, .col7_2 p, .col7_3 p, .col7_4 p {
   text-decoration: none;
   display:block;
-  margin-bottom: 10px;
+  margin-bottom: 0.8vw;
   color: black;
   font-size: small;
 }
-
+/*
 .copyright7{
   padding: 0.7vw 15%;
   text-align:center;
@@ -181,4 +179,12 @@ body{
   margin-left: -26px;
   width: 1095px;
 
-}
+}*/
+.copyright7{
+  align-self: center;
+  padding: 0.7vw 0vw;
+  text-align:center;
+  color: #ffffff;
+  background:#293241;
+  width:100%;}
+

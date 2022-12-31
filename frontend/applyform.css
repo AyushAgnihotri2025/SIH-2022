@@ -207,11 +207,11 @@ body{
 .footer9 {
   display: flex;
   flex-direction: row;
-  align-items: center;
+ 
   padding: 0 15%;
   background:#f8dad3;
   color: black;
-  margin-top: 0px;
+  
   margin-left: -350px;
   width: 1285px;
   margin-bottom: 0px;
@@ -223,18 +223,16 @@ body{
   flex-grow: 0.2;
   right:100vw;
   font-weight: 300vw;
-  margin-top: 0vw;
   margin-left: 100px;
   
 }
-.col9_1{
-  margin-top: 10px;
-}
 
-.col9_1 a, .col9_2 p, .col9_3 p {
+
+.col9_1 a, .col9_2 p, .col9_3 p, .col9_4 p {
+ 
   text-decoration: none;
   display:block;
-  margin-bottom: 10px;
+  margin-bottom: 1vw;
   color: black;
   font-size: small;
 }

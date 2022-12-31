@@ -2,6 +2,10 @@
 
 body {
   background-color: #ffffff;
+  position: relative;
+  margin-top: 0vw;
+  overflow-y: hidden;
+ 
 }
 
 #container {
